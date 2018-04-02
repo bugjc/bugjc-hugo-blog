@@ -1,11 +1,12 @@
 +++
 title = "技术|成体系的技术清单文章_009"
-weight = 1
+weight = 9
 draft = false
 description = "成体系的技术清单文章"
 bref = "成体系的技术清单文章."
 toc = false
 enabled = false
+
 +++
 
 ## 成体系的技术清单文章_009

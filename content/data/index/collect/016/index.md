@@ -1,11 +1,12 @@
 +++
 title = "DevOps_016"
-weight = 1
+weight = 16
 draft = false
 description = "DevOps"
 bref = "DevOps."
 toc = false
 enabled = false
+
 +++
 
 ## DevOps_016

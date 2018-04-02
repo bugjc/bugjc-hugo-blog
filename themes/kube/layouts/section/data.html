@@ -7,16 +7,17 @@
   </div>
   <div id="components">
     <div class="row gutters">
-      {{ range .Data.Pages.ByWeight }}
-        {{if .Params.enabled}}
-        <div class="col col-4 item">
-          <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-          <p>{{ .Params.description }}</p>
-        </div>
-        {{end }}
+      {{ range .Data.Pages.ByWeight}}
+      {{ if ne .Params.enabled true}}
+      <div class="col col-4 item">
+        <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+        <p>{{ .Params.description }}</p>
+      </div>
+      {{ end }}
       {{ end }}
 
     </div>
+
   </div>
 </div>
 {{ end }}

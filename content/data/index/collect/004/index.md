@@ -1,11 +1,12 @@
 +++
 title = "架构设计类文章_004"
-weight = 1
+weight = 4
 draft = false
 description = "架构设计类文章"
 bref = "架构设计类文章."
 toc = false
 enabled = false
+
 +++
 
 ## 架构设计类文章_004
