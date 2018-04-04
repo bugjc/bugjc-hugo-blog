@@ -1,14 +1,15 @@
 +++
+
 title = "高质量学习资料_001"
 weight = 1
 draft = false
 description = "收集高质量学习资料"
 bref = "收集高质量学习资料."
 toc = false
-enabled = false
+
 +++
 
-## 高质量学习资料_001
+### 高质量学习资料_001
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [数据科学Python笔记本](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/let)

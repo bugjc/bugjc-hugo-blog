@@ -1,15 +1,15 @@
 +++
+
 title = "实用技术文章_005"
 weight = 5
 draft = false
 description = "实用技术文章"
 bref = "实用技术文章."
 toc = false
-enabled = false
 
 +++
 
-## 实用技术文章_005
+### 实用技术文章_005
 - [Nginx 通过 Lua + Redis 实现动态封禁 IP](http://www.jianshu.com/p/20b6883e62ea)
 - [利用service worker破解防盗链](https://juejin.im/post/58dcb1c361ff4b006b042b70)
 - [如何用Redlock实现分布式锁](http://blog.csdn.net/forezp/article/details/70305336)

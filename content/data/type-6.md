@@ -5,11 +5,10 @@ draft = false
 description = "深入浅出类文章"
 bref = "深入浅出类文章."
 toc = false
-enabled = false
 
 +++
 
-## 深入浅出类文章_006
+### 深入浅出类文章_006
 - [持续集成是什么？](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
 - [深入浅出java同步器AQS](http://www.jianshu.com/p/d8eeb31bee5c)
 - [Java 注解 （Annotation）](http://blog.csdn.net/briblue/article/details/73824058)

@@ -5,11 +5,10 @@ draft = false
 description = "技术|经验文章"
 bref = "技术|经验文章."
 toc = false
-enabled = false
 
 +++
 
-## 技术|经验文章_008
+### 技术|经验文章_008
 - [漫谈千亿级数据优化实践：一次数据优化实录](http://www.jianshu.com/p/e933256d93e2)
 - [使用 vue2.0 开发微信公众号下前后端分离的SPA站点的填坑之旅](https://lscho.com/tech/vue-wechat.html)
 - [基于代理服务的接口合并方案](https://juejin.im/post/592b705b2f301e0057f25673)

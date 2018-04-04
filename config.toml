@@ -4,11 +4,7 @@ title = "Bugjc"
 theme = "kube"
 description = ""
 Paginate = 5
-[Params.seo.webmaster_verifications]
-  google = "" # Optional, Google verification code
-  bing = "" # Optional, Bing verification code
-  alexa = "" # Optional, Alexa verification code
-  yandex = "" # Optional, Yandex verification code
+
 [Params]
   RSSLink = "/index.xml"
   author = "bugjc" # add your company name

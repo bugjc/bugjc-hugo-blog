@@ -1,15 +1,15 @@
 +++
+
 title = "架构设计类文章_004"
 weight = 4
 draft = false
 description = "架构设计类文章"
 bref = "架构设计类文章."
 toc = false
-enabled = false
 
 +++
 
-## 架构设计类文章_004
+### 架构设计类文章_004
 - [java技能图谱](http://www.jianshu.com/p/fd1639c686c8)
 - [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
 - [有赞延迟队列设计](https://w.wujunze.com/2016/03/23/%E6%9C%89%E8%B5%9E%E5%BB%B6%E8%BF%9F%E9%98%9F%E5%88%97%E8%AE%BE%E8%AE%A1/)
