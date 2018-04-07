@@ -13,14 +13,18 @@ Paginate = 5
   email = "qing.muyi@foxmail.com"
 
 [[menu.main]]
-    name = "Blog"
+    name = "博客"
     weight = -200
     url = "/blog/"
 [[menu.main]]
-    name = "Data Repository"
+    name = "资料归档"
     weight = -150
     url = "/data/"
 [[menu.main]]
-    name = "About"
+    name = "每周精选"
+    weight = -110
+    url = "/potw"
+[[menu.main]]
+    name = "关于"
     weight = -100
     url = "/about/"
