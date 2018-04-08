@@ -1,0 +1,30 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Bugjc"
+theme = "kube"
+description = ""
+Paginate = 5
+
+[Params]
+  RSSLink = "/index.xml"
+  author = "bugjc" # add your company name
+  github = "" # add your github profile name
+  twitter = "" # add your twitter profile
+  email = "qing.muyi@foxmail.com"
+
+[[menu.main]]
+    name = "博客"
+    weight = -200
+    url = "/blog/"
+[[menu.main]]
+    name = "资料归档"
+    weight = -150
+    url = "/data/"
+[[menu.main]]
+    name = "每周精选"
+    weight = -110
+    url = "/potw"
+[[menu.main]]
+    name = "关于"
+    weight = -100
+    url = "/about/"

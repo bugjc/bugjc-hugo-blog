@@ -1,0 +1,60 @@
+{{ define "title"}} {{ .Site.Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+
+<div id="main">
+  <div id="hero">
+    <h2>{{.Title}}</h2>
+    <p>{{.Description}}</p>
+  </div>
+  <div id="action-buttons">
+    <a class="button primary big" href="#" onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">Download</a> <a class="button outline big" href="https://github.com/bugjc/bugjc.github.io.git" onclick="_gaq.push(['_trackEvent', 'kube', 'github']);">View on Github</a>
+    <!-- <p>Zip-archive, includes all the source and site example files</p> -->
+  </div>
+  <!-- <div class="message focus" data-component="message"> <span class="close small"></span>
+    <a class="button inverted small " href="https://imperavi.com/kube/" >Kube </a> from <a href="https://imperavi.com/">imperavi</a> is an awesome <mark>CSS & JS Framework</mark> and i designed this template for <a href="https://gohugo.io">hugo</a> with the same original philosophy !
+  </div> -->
+  <div id="kube-features">
+    <div class="row gutters">
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Baseline" height="48" src="{{ "/img/kube/icon-baseline.png" | relURL }}" width="48">
+        </figure>
+        <h3>学习资料索引库</h3>
+        <p>资料库记录着我学习过程中遇到的问题、深有感触的文章和耳目一新的设计思想,最终将对我有帮助的文章笔记进行归类索引.</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Typography" height="48" src="{{ "/img/kube/icon-typo.png" | relURL }}" width="48">
+        </figure>
+        <h3>Spring boot 示例</h3>
+        <p>Springboot示例项目是实际项目开发过程中使用到的技术,并且是基于springboot的.</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Minimalism" height="48" src="{{ "/img/kube/icon-minimalism.png" | relURL }}" width="48">
+        </figure>
+        <h3>业务工具箱</h3>
+        <p>项目索引Java开发过程中好用的工具,以及在工具的基础上增强业务的可用性.</p>
+      </div>
+    </div>
+    <!-- <div class="row gutters">
+      <div class="col col-4 item">
+        <h4>Mobile-first Design</h4>
+        <p>Every element in kube is mobile-first and fully embraces latest and greatest tech.</p>
+      </div>
+      <div class="col col-4 item">
+        <h4>Cross-browser</h4>
+        <p>Kube works in all modern browsers, both desktop and mobile, including latest Chrome, Firefox, Safari, Opera, IE and Edge.</p>
+      </div>
+      <div class="col col-4 item">
+        <h4>License</h4>
+        <p>Kube licensed under <a href="https://opensource.org/licenses/MIT">MIT</a>.<br>
+      Kube Framework is absolutely free for personal or commercial use.</p>
+    </div> -->
+  </div>
+</div>
+</div>
+
+{{ end }}
+{{ define "footer"}} {{ partial "footer" .}} {{end}}
