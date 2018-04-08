@@ -23,10 +23,6 @@ WORKDIR /usr/share/blog
 # Expose default hugo port
 EXPOSE 80
 
-# Automatically build site
-
-ONBUILD RUN hugo -d /usr/share/nginx/html/
-
 # By default, serve site
 ENV HUGO_BASE_URL http://localhost:80
 CMD hugo server -b ${HUGO_BASE_URL} --bind=0.0.0.0 -p 80
