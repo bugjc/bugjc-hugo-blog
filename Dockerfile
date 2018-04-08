@@ -21,7 +21,7 @@ COPY site/ /usr/share/blog
 WORKDIR /usr/share/blog
 
 # Expose default hugo port
-EXPOSE 8080
+EXPOSE 80
 
 # Automatically build site
 
