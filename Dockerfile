@@ -16,6 +16,9 @@ RUN curl -sL -o /tmp/hugo.deb \
     rm /tmp/hugo.deb && \
     mkdir /usr/share/blog
 
+RUN ls -ls
+RUN hugo -version
+
 WORKDIR /usr/share/blog
 
 # Expose default hugo port
@@ -24,6 +27,7 @@ EXPOSE 1313
 # Automatically build site
 RUN ls -ls
 ONBUILD ADD site/ /usr/share/blog
+
 ONBUILD RUN hugo -d /usr/share/nginx/html/
 
 # By default, serve site
