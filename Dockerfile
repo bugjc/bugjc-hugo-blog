@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER yigal@publysher.nl
+MAINTAINER qing.muyi@foxmail.com
 
 # Install pygments (for syntax highlighting)
 RUN apt-get -qq update \
