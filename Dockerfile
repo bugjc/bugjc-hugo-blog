@@ -24,5 +24,5 @@ WORKDIR /usr/share/blog
 EXPOSE 80
 
 # By default, serve site
-ENV HUGO_BASE_URL http://localhost:80
+ENV HUGO_BASE_URL http://www.bugjc.com
 CMD hugo server -b ${HUGO_BASE_URL} --bind=0.0.0.0 -p 80
