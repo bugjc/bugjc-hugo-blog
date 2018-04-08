@@ -1,4 +1,4 @@
-baseURL = "www.bugjc.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Bugjc"
 theme = "kube"
