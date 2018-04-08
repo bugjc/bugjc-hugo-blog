@@ -16,8 +16,8 @@ RUN curl -sL -o /tmp/hugo.deb \
     rm /tmp/hugo.deb && \
     mkdir /usr/share/blog
 
-RUN ls -ls
-RUN hugo -version
+RUN ls -ls && pwd
+COPY site/ /usr/share/blog
 
 WORKDIR /usr/share/blog
 
@@ -25,7 +25,7 @@ WORKDIR /usr/share/blog
 EXPOSE 1313
 
 # Automatically build site
-RUN ls -ls
+RUN ls -ls && pwd
 ONBUILD ADD site/ /usr/share/blog
 
 ONBUILD RUN hugo -d /usr/share/nginx/html/
