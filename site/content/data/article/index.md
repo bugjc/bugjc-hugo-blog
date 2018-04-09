@@ -28,19 +28,13 @@ isShow = true
 - [如何做高可用的架构设计（整理篇）](http://note.youdao.com/noteshare?id=32e6651e4a8d90143fdf1aedd572615b&sub=DA403EEE572E48A98A4517CEB59CFB4B)
 
 
-#### 实用技术
+#### 实用技能
 - [Nginx 通过 Lua + Redis 实现动态封禁 IP](http://www.jianshu.com/p/20b6883e62ea)
 - [利用service worker破解防盗链](https://juejin.im/post/58dcb1c361ff4b006b042b70)
 - [如何用Redlock实现分布式锁](http://blog.csdn.net/forezp/article/details/70305336)
 - [搭建一个redis高可用系统](http://www.jianshu.com/p/c2ab606b00b7)
-- [redis操作相关的项目](https://github.com/wgd12389/redisses)
-- [[Java] 通过反射，动态修改注解的某个属性值](https://segmentfault.com/a/1190000011213222)
-- [WebRTC](https://codelabs.developers.google.com/codelabs/webrtc-web/#0)
-- [从零开始邮件服务器搭建](http://www.jianshu.com/p/610d9bf0ae8b)
-- [spring boot / cloud (一) 使用filter防止XSS](https://my.oschina.net/wangkang80/blog/908070)
-- [使用正则表达式优雅的解决 SpringMVC 时间转换问题](https://juejin.im/post/594a37a7128fe1006a663a3b)
+- [Java通过反射，动态修改注解的某个属性值](https://segmentfault.com/a/1190000011213222)
 - [SpringMVC 集成 ELK 搭建日志收集服务器](http://www.ciphermagic.cn/springmvc-elk.html)
-- [SpringBoot配置属性之MVC](https://segmentfault.com/a/1190000004315890)
 - [基于 Docker 打造前端持续集成开发环境](https://juejin.im/post/5a142d7b6fb9a0451170c2c7)
 - [Google Guava缓存实现接口的限流](https://www.cnblogs.com/sunp823/p/5601395.html)
 - [基于Redis的限流系统的设计](https://www.zybuluo.com/kay2/note/949160)
@@ -52,6 +46,12 @@ isShow = true
 
 #### 深入浅出
 TODO
+
+#### 资料文档
+- [SpringBoot配置属性](https://segmentfault.com/a/1190000004315890)
+
+#### WEB安全
+- [spring boot / cloud (一) 使用filter防止XSS](https://my.oschina.net/wangkang80/blog/908070)
 
 #### 经验奇谈
 TODO
