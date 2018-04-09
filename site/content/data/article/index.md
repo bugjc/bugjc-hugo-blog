@@ -13,12 +13,12 @@ isShow = true
 ### 文章分类
 
 #### 技能图谱
-看图谱不迷路😊
-- [微服务架构技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MicroService-by-StuQ.png)
-- [架构师技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Architect-by-StuQ.png)
-- [容器技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Container-by-StuQ.png)
-- [大数据工程师技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-BigData-by-StuQ.png)
-- [机器学习技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MachineLearning-by-StuQ.png)
+看图谱不迷路😊  
+- [微服务架构技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MicroService-by-StuQ.png)  
+- [架构师技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Architect-by-StuQ.png)  
+- [容器技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Container-by-StuQ.png)  
+- [大数据工程师技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-BigData-by-StuQ.png)  
+- [机器学习技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MachineLearning-by-StuQ.png)  
 
 #### 架构设计
 - [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
