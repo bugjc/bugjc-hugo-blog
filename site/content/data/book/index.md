@@ -10,9 +10,7 @@ isShow = true
 
 +++
 
-### 语言无关类
-
-#### 操作系统
+### 操作系统
 
 * [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
 * [快乐的 Linux 命令行](http://billie66.github.io/TLCL/index.html)
@@ -25,20 +23,20 @@ isShow = true
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
 
-#### 编译原理
+### 编译原理
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
 
-#### 函数式编程
+### 函数式编程
 * [函数式编程思维](http://www.ituring.com.cn/book/tupubarticle/2854)
 
-#### WEB服务器
+### WEB服务器
 
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
 * [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)
 * [OpenResty最佳实践](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details)
 * [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
 
-#### 版本控制
+### 版本控制
 
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 * [Git 参考手册](http://gitref.justjavac.com)
@@ -49,12 +47,12 @@ isShow = true
 * [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 * [GitHub漫游指南](https://github.com/phodal/github-roam)
 
-#### 编辑器
+### 编辑器
 
 * [Markdown·简单的世界](https://wizardforcel.gitbooks.io/markdown-simple-world/content/0.html)
 * [Atom官方手册](https://atom-china.org/t/atom/62)
 
-#### NoSQL
+### NoSQL
 
 * [NoSQL数据库笔谈](http://old.sebug.net/paper/databases/nosql/Nosql.html)
 * [Redis 设计与实现](http://redisbook.com/)
@@ -63,14 +61,14 @@ isShow = true
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [Apache Spark 设计与实现](https://spark-internals.books.yourtion.com/)
 
-#### 设计模式
+### 设计模式
 
 * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 * [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
 * [Java设计模式](https://gof.quanke.name/)
 * [设计模式 Java 版](https://quanke.gitbooks.io/design-pattern-java/content/)
 
-#### Web
+### Web
 
 * [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
 * [Gulp 入门指南](https://github.com/nimojs/gulp-book)
@@ -83,15 +81,14 @@ isShow = true
 * [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 
-#### 大数据
+### 大数据
 
 * [数据挖掘算法](https://github.com/linyiqun/DataMiningAlgorithm)
 * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
 
+------
 
-### 语言相关类
-
-#### Java
+### Java
 
 * [Apache Shiro 1.2.x 参考手册](https://waylau.gitbooks.io/apache-shiro-1-2-x-reference/content/)
 * [Jersey 2.x 用户指南](https://waylau.gitbooks.io/jersey-2-user-guide/content/)
@@ -113,17 +110,17 @@ isShow = true
 * [像计算机科学家一样思考（Java版）](http://www.ituring.com.cn/book/1978)
 * [Java 8 简明教程](https://wizardforcel.gitbooks.io/modern-java/content/)
 
-#### JavaScript
+### JavaScript
 TODO
 
-#### LaTeX
+### LaTeX
 TODO
 
-#### Lua
+### Lua
 TODO
 
-#### Python
+### Python
 TODO
 
-#### Shell
+### Shell
 TODO

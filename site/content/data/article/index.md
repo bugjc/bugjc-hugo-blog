@@ -10,9 +10,8 @@ isShow = true
 
 +++
 
-### 文章分类
 
-#### 技能图谱
+### 技能图谱
 看图谱不迷路😊  
 - [微服务架构技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MicroService-by-StuQ.png)  
 - [架构师技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Architect-by-StuQ.png)  
@@ -20,7 +19,7 @@ isShow = true
 - [大数据工程师技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-BigData-by-StuQ.png)  
 - [机器学习技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MachineLearning-by-StuQ.png)  
 
-#### 架构设计
+### 架构设计
 - [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
 - [有赞延迟队列设计](https://tech.youzan.com/queuing_delay/)
 - [故障驱动的微服务架构设计](https://mp.weixin.qq.com/s/yr4CIgoloLt3zfjQbHEOpA?utm_source=tuicool&utm_medium=referral)
@@ -28,7 +27,7 @@ isShow = true
 - [如何做高可用的架构设计（整理篇）](http://note.youdao.com/noteshare?id=32e6651e4a8d90143fdf1aedd572615b&sub=DA403EEE572E48A98A4517CEB59CFB4B)
 
 
-#### 实用技能
+### 实用技能
 - [Nginx 通过 Lua + Redis 实现动态封禁 IP](http://www.jianshu.com/p/20b6883e62ea)
 - [《Redis官方文档》用Redis构建分布式锁](http://ifeve.com/redis-lock/)
 - [基于Redis的限流系统的设计](https://www.zybuluo.com/kay2/note/949160)
@@ -45,24 +44,24 @@ isShow = true
 - [ELK实战之解析各类日志文件](https://github.com/jasonGeng88/blog/blob/master/201703/elk_parse_log.md)
 
 
-#### 深入浅出
+### 深入浅出
 TODO
 
-#### 资料文档
+### 资料文档
 - [SpringBoot配置属性](https://segmentfault.com/a/1190000004315890)
 
-#### WEB安全
+### WEB安全
 - [spring boot / cloud (一) 使用filter防止XSS](https://my.oschina.net/wangkang80/blog/908070)
 
-#### 经验奇谈
+### 经验奇谈
 TODO
 
-#### 技术清单
+### 技术清单
 
 TODO
 
-#### 产品设计
+### 产品设计
 TODO
 
-#### 技术杂谈
+### 技术杂谈
 - [Google 是如何做负载均衡的？](https://zhuanlan.zhihu.com/p/23826170)

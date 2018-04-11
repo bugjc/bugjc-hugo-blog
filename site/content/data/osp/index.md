@@ -1,7 +1,7 @@
 +++
 
 title = "优质开源项目"  
-weight = 2  
+weight = 4  
 draft = false 
 description = "收藏、整理项目开发过程中使用到的优质开源项目"  
 bref = "收藏、整理项目开发过程中使用到的优质开源项目。"
@@ -10,7 +10,13 @@ isShow = true
 
 +++
 
-### 文章分类
 
-#### 项目管理
-- [YAPI接口管理工具](https://www.jianshu.com/p/a97d2efb23c5)  
+### [Redisson](https://github.com/redisson/redisson)
+Redisson是基于Redis的Java应用程序为小型初创公司和大型企业提供了强大的Java应用程序。 
+
+    #主要特征
+    * 分布式Java对象
+    * 分布式锁和同步器
+    * 分布式Java服务
+    * 分布式Java集合
+
