@@ -1,6 +1,6 @@
 +++
 
-title = "优质开源项目"  
+title = "优质开源"  
 weight = 4  
 draft = false 
 description = "收藏、整理项目开发过程中使用到的优质开源项目"  
