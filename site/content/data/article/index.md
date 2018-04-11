@@ -1,10 +1,10 @@
 +++
 
-title = "文章归档"  
+title = "文章笔记"  
 weight = 2  
 draft = false 
-description = "收藏、整理对我有帮助的文章"  
-bref = "收藏、整理对我有帮助的文章。"
+description = "收藏、整理对我有启发的文章"  
+bref = "收藏、整理对我有启发的文章。"
 toc = true  
 isShow = true
 

@@ -1,6 +1,6 @@
 +++
 
-title = "规范归档"
+title = "编程规范"
 weight = 3
 draft = false
 description = "收集、整理开发相关规范"

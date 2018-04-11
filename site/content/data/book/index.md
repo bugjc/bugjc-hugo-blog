@@ -1,10 +1,10 @@
 +++
 
-title = "图书归档"  
+title = "开源图书"  
 weight = 1  
 draft = false 
-description = "收藏、整理对我有帮助的图书"  
-bref = "收藏、整理对我有帮助的图书。"
+description = "收藏、整理对我有启发的图书"  
+bref = "收藏、整理对我有启发的图书。"
 toc = true  
 isShow = true
 
