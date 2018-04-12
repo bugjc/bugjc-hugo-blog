@@ -57,8 +57,13 @@ TODO
 TODO
 
 ### 技术清单
-
-TODO
+- [大型网站技术架构](http://note.youdao.com/noteshare?id=11cbc1f3798096e6fe244496c41991e0)
+- [几种常用的认证机制清单](http://note.youdao.com/noteshare?id=2f0a100bfe0a54c965859dd946643cde)
+- [几种常见的ID生成策略清单](http://note.youdao.com/noteshare?id=4ac2bd171cde0254baba61e174f3ee92)
+- [算法复杂度速查表](http://note.youdao.com/noteshare?id=1009360d5bcd7e0da353663f9c308cb3)
+- [服务注册技术清单](http://note.youdao.com/noteshare?id=cbbb7c291c359e7098f2e1651b2569bc)
+- [如何做高可用的架构设计](http://note.youdao.com/noteshare?id=32e6651e4a8d90143fdf1aedd572615b)
+- [几种IPC交互方式](http://note.youdao.com/noteshare?id=7767a4e053e52751f915870df5dee90b)
 
 ### 产品设计
 TODO
