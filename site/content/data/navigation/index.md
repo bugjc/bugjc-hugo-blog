@@ -10,8 +10,8 @@ isShow = true
 
 +++
 
-### [极客搜索](https://s.geekbang.org/)
+### <font color=#3998e2>[极客搜索](https://s.geekbang.org/)</font>
 程序员的资料搜索站
 
-### [图灵社区](http://www.ituring.com.cn/)
+### <font color=#3998e2>[图灵社区](http://www.ituring.com.cn/)</font>
 程序员的图书搜索站

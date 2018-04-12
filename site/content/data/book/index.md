@@ -1,7 +1,7 @@
 +++
 
 title = "开源图书"  
-weight = 1  
+weight = 2  
 draft = false 
 description = "收藏、整理对我有启发的图书"  
 bref = "收藏、整理对我有启发的图书。"

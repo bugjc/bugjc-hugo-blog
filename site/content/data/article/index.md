@@ -1,7 +1,7 @@
 +++
 
 title = "文章笔记"  
-weight = 2  
+weight = 1  
 draft = false 
 description = "收藏、整理对我有启发的文章"  
 bref = "收藏、整理对我有启发的文章。"
