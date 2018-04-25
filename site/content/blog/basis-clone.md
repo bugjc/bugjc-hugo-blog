@@ -1,11 +1,11 @@
 +++
 date = "2017-03-02T21:56:55+01:00"
-title = "（基础系列）object clone 的用法、原理和用途"
-tags = ["Java","clone"]
+title = "Object Clone 的用法、原理和用途"
+tags = ["Java","Clone"]
 categories = ["general"]
 draft = false
 description = "object clone（对象克隆）网上资料很多，那我为什么还要写下这篇文章呢？主要是想汇聚多篇文章的优秀之处以及我对于对象克隆的理解来加深印象，也使读者能更全面的理解对象克隆的用法、原理和用途。"
-weight = 10
+weight = 2
 +++
 
 ## 前言
