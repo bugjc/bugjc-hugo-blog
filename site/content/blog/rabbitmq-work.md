@@ -9,6 +9,7 @@ description = "本文旨在深入理解rabbitmq消息的分发机制和消息一
 weight = 100
 +++
 
+
 阅读时间：20分钟  
 阅读人群：了解RabbitMQ的工程师  
 
@@ -20,17 +21,17 @@ weight = 100
 
 ## Message acknowledgment 消息确认机制
 
-### no-ack（非消息确认）
+### NO ACK （非消息确认）
 Consumer接收到数据后不管处理是否完成，Broker立即把这个Message标记为完成，然后从queue中删除了。
 
-no-ack可能会出现的问题：  
+NO ACK 可能会出现的问题：  
 当Consumer处理数据的过程中异常退出数据会丢失（多个Consumer处理同一个消息产生同样的结果的除外）
 
-### ack（消息确认）
+### ACK（消息确认）
 消息确认分消息发送端和消息接收端两种。
 
 #### Producer消息确认
-Producer发送消息时通过实现ConfirmCallback接口来确定消息是否发送成功。下面时实现示例：
+Producer发送消息时通过实现ConfirmCallback接口来确定消息是否发送成功。下面是实现示例：
 
 ```
 @Slf4j
@@ -231,7 +232,7 @@ public void sendMessage(String messgae) throws UnsupportedEncodingException {
 ```
 同队列的持久化一样，都是通过设置durable = true来持久化Exchange.
 
-==Broker接收到消息之后可能仅仅保存到cache中而不是物理磁盘上，在这段时间内Broker发送crash消息将丢失。解决的办法是引入mirrored-queue（镜像队列）。建议生产环境设置Exchange、Queue和Message的消息持久化以及mirrored-queue来保证数据的不丢失。另外消息固定25S将Buffer里的数据及未刷新到磁盘的文件内容刷新到磁盘中。==
+<font style="background-color:yellow">Broker接收到消息之后可能仅仅保存到cache中而不是物理磁盘上，在这段时间内Broker发送crash消息将丢失。解决的办法是引入mirrored-queue（镜像队列）。建议生产环境设置Exchange、Queue和Message的消息持久化以及mirrored-queue来保证数据的不丢失。另外消息固定25S将Buffer里的数据及未刷新到磁盘的文件内容刷新到磁盘中。</font>
 
 ## Fair dispatch 公平分发机制
 当有些Consumer处理任务较慢，有些Consumer处理任务较快时，循环分发就显得不那么优雅了。这时就需要一个相对公平的分发机制，即将任务分发给已处理完的Consumer.
@@ -244,5 +245,3 @@ channel.basicQos(1);
 ## 参考资料
 - [RabbitMQ消息队列（三）：任务分发机制](https://blog.csdn.net/anzhsoft/article/details/19607841)  
 - [官网-工作队列](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
-
-
