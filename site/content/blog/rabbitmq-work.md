@@ -1,7 +1,7 @@
 
 +++
 read_time = 20
-date = "2018-01-05"
+date = "2018-01-06"
 title = "RabbitMQ消息分发机制以及消息持久化"
 tags = ["rabbitmq"]
 categories = ["general"]
