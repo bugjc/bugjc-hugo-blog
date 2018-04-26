@@ -1,5 +1,6 @@
 
 +++
+read_time = 20
 date = "2018-01-05"
 title = "RabbitMQ消息分发机制以及消息持久化"
 tags = ["rabbitmq"]
@@ -9,9 +10,9 @@ description = "本文旨在深入理解rabbitmq消息的分发机制和消息一
 weight = 100
 +++
 
-
-阅读时间：20分钟  
-阅读人群：了解RabbitMQ的工程师  
+  
+阅读人群：了解RabbitMQ的工程师   
+您将收获：使用Rabbitmq生产化必须思考的问题以及所解决问题的方法
 
 ## 角色含义
 - Producer：消息生产者
