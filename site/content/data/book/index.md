@@ -22,6 +22,7 @@ isShow = true
 * [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://www.gitbook.com/book/tinylab/elinux/details)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
+* [Kubernetes指南](https://kubernetes.feisky.xyz/zh/)
 
 ### 编译原理
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
