@@ -19,4 +19,7 @@ Redisson是基于Redis的Java应用程序为小型初创公司和大型企业提
     * 分布式锁和同步器
     * 分布式Java服务
     * 分布式Java集合
+    
+### [高可扩展性，高可用性，高稳定性，高性能和高智能后端设计](https://github.com/binhnguyennus/awesome-scalability)
+> awesome-scalability通过案例的形式深入"五高"特性的讲解和实践
 
