@@ -4,7 +4,7 @@
 read_time = 20
 date = "2018-02-05"
 title = "响应式编程介绍"
-tags = ["rabbitmq"]
+tags = ["Reactive Programming"]
 categories = ["general"]
 draft = false
 description = "响应式编程（Reactive Programming）是一种面向数据流和变化传播的编程范式。这意味着可以在编程语言中很方便地表达静态或动态的数据流，而相关的计算模型会自动将变化的值通过数据流进行传播。"
