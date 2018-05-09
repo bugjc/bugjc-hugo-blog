@@ -19,7 +19,7 @@ isShow = true
 
 - [Istio官方文档中文版](http://istio.doczh.cn/)
 
-## 版本控制
+### 版本控制
 
 - [Git 参考手册](http://gitref.justjavac.com)
 - [GitHub帮助文档](https://github.com/waylau/github-help)
