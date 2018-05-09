@@ -40,12 +40,9 @@ isShow = true
 ### 版本控制
 
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
-* [Git 参考手册](http://gitref.justjavac.com)
 * [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)
 * [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
-* [GitHub帮助文档](https://github.com/waylau/github-help)
-* [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 * [GitHub漫游指南](https://github.com/phodal/github-roam)
 
 ### 编辑器
@@ -93,14 +90,9 @@ isShow = true
 
 * [Apache Shiro 1.2.x 参考手册](https://waylau.gitbooks.io/apache-shiro-1-2-x-reference/content/)
 * [Jersey 2.x 用户指南](https://waylau.gitbooks.io/jersey-2-user-guide/content/)
-* [Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)
-* [Spring Boot参考指南](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
 * [Spring Cloud与Docker实战微服务](https://eacdy.gitbooks.io/spring-cloud-book/content/)
-* [Spring Batch参考文档中文版](https://kimmking.gitbooks.io/springbatchreference/content/index.html)
 * [Spring Data中文版](https://czeng.gitbooks.io/spring-data/content/)
-* [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
 * [Activiti 5.x 用户指南](https://waylau.gitbooks.io/activiti-5-x-user-guide/content/)
-* [Netty 4.x 用户指南](https://waylau.com/netty-4-user-guide/)
 * [Netty 实战(精髓)](https://waylau.gitbooks.io/essential-netty-in-action/)
 * [REST 实战](https://waylau.gitbooks.io/rest-in-action/)
 * [Apache MINA 2 用户指南](https://waylau.gitbooks.io/apache-mina-2-user-guide/)
