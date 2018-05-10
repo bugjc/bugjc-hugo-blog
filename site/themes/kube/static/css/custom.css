@@ -9,3 +9,17 @@ a {
     text-align: left;
     margin: auto;
 }
+
+#hero-preview {
+    max-width: 740px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: left;
+    margin: auto;
+}
+
+#post-box-preview {
+    max-width: 740px;
+    margin: auto;
+    border-bottom: 3px solid #35beb1;
+}
