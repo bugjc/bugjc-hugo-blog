@@ -37,6 +37,9 @@ isShow = true
 * [OpenResty最佳实践](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details)
 * [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
 
+### 微服务
+- [微服务设计中文完整版](http://www.bugjc.com/preview/microservices-design)
+
 ### 版本控制
 
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
