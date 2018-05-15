@@ -19,8 +19,8 @@ function changeHeight(){
 };
 
 window.onload = function () {
-    var urlFile = "https://os-qingdao.oss-cn-qingdao.aliyuncs.com/data/unionpay/%E8%B5%84%E6%96%99%E6%96%87%E6%A1%A3/%E5%9B%BE%E4%B9%A6/%E5%BE%AE%E6%9C%8D%E5%8A%A1/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1%E4%B8%AD%E6%96%87%E5%AE%8C%E6%95%B4%E7%89%88.pdf";
-    var url = "http://www.preview.bugjc.com:8012/onlinePreview?url="+urlFile;
+    var urlFile = "http%3A%2F%2Fpreview.bugjc.com%3A8012%2Fwarehouse%2F%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1%E4%B8%AD%E6%96%87%E5%AE%8C%E6%95%B4%E7%89%88.pdf";
+    var url = "http://preview.bugjc.com:8012/onlinePreview?url="+urlFile;
     
     var iframeDom = document.getElementById('frame-preview');
     iframeDom.src = url;
