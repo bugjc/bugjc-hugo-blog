@@ -21,7 +21,7 @@ isShow = true
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
 * [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://www.gitbook.com/book/tinylab/elinux/details)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
-* [操作系统思考](https://github.com/wizardforcel/think-os-zh)
+* [操作系统思考](http://www.bugjc.com/preview/opt-system-thinking)
 * [Kubernetes指南](https://kubernetes.feisky.xyz/zh/)
 
 ### 编译原理
