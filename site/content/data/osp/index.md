@@ -28,4 +28,8 @@ isShow = true
 设计模式可以通过提供经过验证的，经过验证的开发模式加速开发过程。
 重用设计模式有助于防止可能导致重大问题的细微问题，并且还可以提高熟悉模式的编码人员和架构师的代码可读性。
 
+### [strman-java](https://github.com/shekhargulati/strman-java)
+> java字符串处理工具，能高效利用此库简化字符串操作。
 
+### [tablesaw](https://github.com/jtablesaw/tablesaw)
+> Tablesaw给我们提供了一种基于内存的高性能大数据解决方案。你可以使用它的API方便地从RDBMS或是CSV中导入数据，然后利用Tablesaw提供的接口对数据进行排序、筛选、分组、map/reduce等操作。

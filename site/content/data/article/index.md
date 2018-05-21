@@ -18,6 +18,7 @@ isShow = true
 - [容器技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Container-by-StuQ.png)  
 - [大数据工程师技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-BigData-by-StuQ.png)  
 - [机器学习技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MachineLearning-by-StuQ.png)  
+- [Java 征途：行者的地图](https://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=402720329&idx=1&sn=f1cd65eb6f6baef044bdf5def8102a28#rd)
 
 ### 高质量内容站
 - [菜鸟教程](http://www.runoob.com/)
@@ -59,6 +60,10 @@ isShow = true
 ### 基础概念
 - [SSL协议详解](http://kb.cnblogs.com/page/162080/)
 - [持续集成是什么？](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
+
+### 干货汇总 
+- [Spring干货汇总（含Spring Boot与Spring Cloud）](https://mp.weixin.qq.com/s?__biz=MzAxODcyNjEzNQ==&mid=2247484574&idx=1&sn=0984db0da3dc0efda956fa0aaeabe479&chksm=9bd0a906aca7201028da742819b4f5b78c8c4768bd88237ffd54c5c818afec0f7af47b1d45eb#rd)
+- [SpringBoot 企业级核心技术学习专题](http://note.youdao.com/noteshare?id=265e299cfcd3e4f928e5c2213ece5965)
 
 ### 深入浅出
 - [Java 帝国之函数式编程](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665513149&idx=1&sn=00e563fbd09c9cf9e2ac4283d43cccf1&scene=21#wechat_redirect)
@@ -122,6 +127,7 @@ isShow = true
 - [如何做高可用的架构设计](http://note.youdao.com/noteshare?id=32e6651e4a8d90143fdf1aedd572615b)
 - [几种IPC交互方式](http://note.youdao.com/noteshare?id=7767a4e053e52751f915870df5dee90b)
 - [Java 多线程编程核心技术清单](http://note.youdao.com/noteshare?id=a2b14ae3d26fff565595539852ac390a&sub=B9504DF9599E4FCAB8D715D738E63FFA)
+
 
 ### 产品设计
 - [搭建账户系统](https://juejin.im/post/59b2708b5188257e8a30842f)
