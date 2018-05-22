@@ -26,11 +26,12 @@ isShow = true
 ### <font color=#3998e2>[ProcessOn](#)</font>
 > ProcessOn是一个在线协作绘图平台,为用户提供最强大、易用的作图工具!支持在线创作流程图、思维导图、BPMN、UML图、UI界面原型设计、iOS界面原型设计等。
 
-## 编程工具
-
-### <font color=#3998e2>[捕获真实流量测试应用](https://github.com/niezhiyang/open_source_team?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io#1%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4)</font>
+### <font color=#3998e2>[捕获真实流量测试应用](https://github.com/buger/goreplay)</font>
 > GoReplay是一款开源工具，用于捕获实时HTTP流量并将其重播到测试环境中，以便持续用真实数据测试您的系统。它可用于增加代码部署，配置更改和基础结构更改的可信度。 
 https://goreplay.org
 
-### <font color=#3998e2>[lombok](https://github.com/niezhiyang/open_source_team?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io#1%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4)</font>
+
+## 编程工具
+
+### <font color=#3998e2>[lombok](https://github.com/rzwitserloot/lombok)</font>
 > Lombok 是一种 Java™ 实用工具，可用来帮助开发人员消除 Java 的冗长，尤其是对于简单的 Java 对象（POJO）。它通过注解实现这一目的。
