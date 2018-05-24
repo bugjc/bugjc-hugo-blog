@@ -1,6 +1,6 @@
 
 +++
-read_time = 20
+read_time = 5
 date = "2018-02-05"
 title = "使用GoReplay捕获真实流量测试应用程序"
 tags = ["goreplay"]
