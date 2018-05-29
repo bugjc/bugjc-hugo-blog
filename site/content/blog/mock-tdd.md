@@ -1,7 +1,7 @@
 +++
 read_time = 5
 date = "2018-01-05"
-title = "（效能提升）基于mock 的前后端分离开发流程详解--TDD"
+title = "基于mock 的前后端分离开发流程详解"
 tags = ["mock"]
 categories = ["general"]
 draft = false
