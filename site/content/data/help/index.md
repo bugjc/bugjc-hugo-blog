@@ -25,8 +25,6 @@ isShow = true
 - [GitHub帮助文档](https://github.com/waylau/github-help)
 - [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 
-
-
 ### Java
 
 - [Spring Boot参考指南](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
@@ -34,3 +32,4 @@ isShow = true
 - [Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)
 - [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
 - [Netty 4.x 用户指南](https://waylau.com/netty-4-user-guide/)
+- [MyBatis 3](http://www.mybatis.org/mybatis-3/zh/index.html)
