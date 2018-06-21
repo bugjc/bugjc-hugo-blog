@@ -33,3 +33,7 @@ isShow = true
 - [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
 - [Netty 4.x 用户指南](https://waylau.com/netty-4-user-guide/)
 - [MyBatis 3](http://www.mybatis.org/mybatis-3/zh/index.html)
+
+## 其他
+
+- [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
