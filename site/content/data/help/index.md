@@ -37,3 +37,4 @@ isShow = true
 ## 其他
 
 - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
+- [Kubernetes 中文文档](http://docs.kubernetes.org.cn/)
