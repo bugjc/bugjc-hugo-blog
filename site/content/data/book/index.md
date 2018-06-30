@@ -76,9 +76,6 @@ isShow = true
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 * [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 * [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
-* [前端代码规范及最佳实践](http://coderlmn.github.io/code-standards/)
-* [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
-* [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/content/)
 * [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 

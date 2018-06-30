@@ -22,6 +22,9 @@ isShow = true
 - [JSON风格指南](https://google.github.io/styleguide/jsoncstyleguide.xml)
 - [Java 编码规范](https://waylau.gitbooks.io/java-code-conventions/)
 - [阿里云 Redis 开发规范](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484583&idx=1&sn=fafbfbd454ac9e573a33ba0f61ab4677&chksm=96e38e90a1940786838d55c19391f30aac5d9f69effa8bd3ae6b468279b300d4542fbfd02986#rd)
+- [前端代码规范及最佳实践](http://coderlmn.github.io/code-standards/)
+- [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
+- [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/content/)
 
 ### 需求规范
 TODO
