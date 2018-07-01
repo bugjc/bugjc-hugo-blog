@@ -9,7 +9,18 @@ toc = true
 isShow = true
 
 +++
-## 非编程工具
+## 在线工具
+
+### <font color=#009688>[Smailpdf](https://smallpdf.com/cn) </font>
+> 轻松玩转PDF
+
+## Java 实用工具
+
+### <font color=#009688>[lombok](https://github.com/rzwitserloot/lombok)</font>
+> Lombok 是一种 Java™ 实用工具，可用来帮助开发人员消除 Java 的冗长，尤其是对于简单的 Java 对象（POJO）。它通过注解实现这一目的。
+ 
+ 
+## 其他工具
 
 ### <font color=#009688>[YAPI接口管理工具](https://yapi.ymfe.org/documents/index.html) </font>
 > YAPI旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API
@@ -32,8 +43,8 @@ https://goreplay.org
 
 ### <font color=#009688>[记事本]()</font>
 
+### <font color=#009688>[捕获真实流量测试应用](https://github.com/buger/goreplay)</font>
+> GoReplay是一款开源工具，用于捕获实时HTTP流量并将其重播到测试环境中，以便持续用真实数据测试您的系统。它可用于增加代码部署，配置更改和基础结构更改的可信度。 
+https://goreplay.org
 
-## 编程工具
 
-### <font color=#009688>[lombok](https://github.com/rzwitserloot/lombok)</font>
-> Lombok 是一种 Java™ 实用工具，可用来帮助开发人员消除 Java 的冗长，尤其是对于简单的 Java 对象（POJO）。它通过注解实现这一目的。
