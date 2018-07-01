@@ -1,7 +1,7 @@
 +++
 
 title = "帮助文档"  
-weight = 2  
+weight = 3  
 draft = false 
 description = "收藏、整理需要的帮助文档"  
 bref = "收藏、整理需要的帮助文档。"

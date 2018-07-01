@@ -1,7 +1,7 @@
 +++
 
 title = "编程规范"
-weight = 4
+weight = 6
 draft = false
 description = "收集、整理开发相关规范"
 bref = "收集、整理开发相关规范."

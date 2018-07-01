@@ -1,7 +1,7 @@
 +++
 
 title = "软件工具"  
-weight = 6  
+weight = 8  
 draft = false 
 description = "收藏、整理项目开发过程中使用到的软件工具"  
 bref = "收藏、整理项目开发过程中使用到的软件工具。"

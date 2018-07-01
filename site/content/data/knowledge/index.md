@@ -1,7 +1,7 @@
 +++
 
 title = "知识平台"
-weight = 3
+weight = 4
 draft = false
 description = "链接高质量知识平台。"
 bref = "链接高质量知识平台."

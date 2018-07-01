@@ -1,7 +1,7 @@
 +++
 
 title = "资料搜索"
-weight = 3
+weight = 5
 draft = false
 description = "收集资料搜索、导航网站"
 bref = "收集资料搜索、导航网站."
