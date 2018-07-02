@@ -25,6 +25,8 @@ isShow = true
 - [前端代码规范及最佳实践](http://coderlmn.github.io/code-standards/)
 - [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
 - [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/content/)
+- [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+- [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
 
 ### 需求规范
 TODO

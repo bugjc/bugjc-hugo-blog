@@ -74,11 +74,9 @@ isShow = true
 * [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
 * [Gulp 入门指南](https://github.com/nimojs/gulp-book)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
-* [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
-* [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
-* [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
-
+- [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
+* [http2讲解](https://ye11ow.gitbooks.io/http2-explained/content/)
 ### 大数据
 
 * [数据挖掘算法](https://github.com/linyiqun/DataMiningAlgorithm)
