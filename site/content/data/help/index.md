@@ -17,7 +17,7 @@ isShow = true
 
 ### 服务网格
 
-- [Istio官方文档中文版](http://istio.doczh.cn/)
+- [Istio 官方文档中文版](http://istio.doczh.cn/)
 
 ### 版本控制
 
@@ -27,12 +27,14 @@ isShow = true
 
 ### Java
 
-- [Spring Boot参考指南](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
-- [Spring Batch参考文档中文版](https://kimmking.gitbooks.io/springbatchreference/content/index.html)
+- [Spring Boot 参考指南](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
+- [Spring Batch 参考文档中文版](https://kimmking.gitbooks.io/springbatchreference/content/index.html)
 - [Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)
+- [spring-data-redis](https://docs.spring.io/spring-data-redis/docs/current/reference/html/)
 - [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
 - [Netty 4.x 用户指南](https://waylau.com/netty-4-user-guide/)
 - [MyBatis 3](http://www.mybatis.org/mybatis-3/zh/index.html)
+- [Redis 文档](http://www.redis.cn/commands.html)
 
 ## 其他
 
