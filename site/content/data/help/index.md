@@ -29,6 +29,7 @@ isShow = true
 
 - [Spring Boot 参考指南](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
 - [Spring Batch 参考文档中文版](https://kimmking.gitbooks.io/springbatchreference/content/index.html)
+- [Spring Boot Admin](https://codecentric.github.io/spring-boot-admin/2.0.1/#_what_is_spring_boot_admin)
 - [Spring Framework 5 中文文档](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/)
 - [spring-data-redis](https://docs.spring.io/spring-data-redis/docs/current/reference/html/)
 - [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
