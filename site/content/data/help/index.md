@@ -26,7 +26,8 @@ isShow = true
 - [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
 
 ### Java
-
+- [Spring Cloud](https://projects.spring.io/spring-cloud/spring-cloud.html#_features)
+- [Spring Cloud Netflix](https://cloud.spring.io/spring-cloud-netflix/single/spring-cloud-netflix.html)
 - [Spring Boot 参考指南](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
 - [Spring Batch 参考文档中文版](https://kimmking.gitbooks.io/springbatchreference/content/index.html)
 - [Spring Boot Admin](https://codecentric.github.io/spring-boot-admin/2.0.1/#_what_is_spring_boot_admin)
@@ -36,6 +37,7 @@ isShow = true
 - [Netty 4.x 用户指南](https://waylau.com/netty-4-user-guide/)
 - [MyBatis 3](http://www.mybatis.org/mybatis-3/zh/index.html)
 - [Redis 文档](http://www.redis.cn/commands.html)
+- [Hystrix 文档](https://github.com/Netflix/Hystrix/wiki)
 
 ## 其他
 
