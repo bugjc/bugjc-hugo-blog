@@ -377,12 +377,12 @@ public interface MemberService {
 
 ##### 常用注解解释
 
-<font color=#3B200C>@Cached</font> 创建缓存
-- <font color=#DE8100>name</font> (可选，如果没有指定，JetCache将自动生成一个。此名称用于显示统计信息，并在使用远程缓存时作为密钥前缀的一部分。不要将相同的名称分配给具有相同区域的不同@Cached注释。)
-- <font color=#DE8100>key</font> (可选，通过表达式脚本指定键，如果不指定,使用目标方法和keyConvertor的所有参数生成一个。)
+<font color=#3B200C>@Cached</font> 创建缓存  
+- <font color=#DE8100>name</font> (可选，如果没有指定，JetCache将自动生成一个。此名称用于显示统计信息，并在使用远程缓存时作为密钥前缀的一部分。不要将相同的名称分配给具有相同区域的不同@Cached注释。)  
+- <font color=#DE8100>key</font> (可选，通过表达式脚本指定键，如果不指定,使用目标方法和keyConvertor的所有参数生成一个。)  
 - <font color=#DE8100>expire</font> (可选，到期时间。如果属性值不存在，请使用全局配置，
-如果全局配置也没有定义，那么使用infinity。到期时间单位属性通过timeUnit配置。)
-- <font color=#DE8100>cacheType</font> (可选，缓存实例的类型，通过CacheType枚举配置是使用本地、远程还是两者一起用。)
+如果全局配置也没有定义，那么使用infinity。到期时间单位属性通过timeUnit配置。)  
+- <font color=#DE8100>cacheType</font> (可选，缓存实例的类型，通过CacheType枚举配置是使用本地、远程还是两者一起用。)  
 
 [集成示例源码](https://github.com/bugjc/sboot-integration-samples/tree/master/shoot-integration-jetcache)
 
