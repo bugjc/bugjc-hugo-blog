@@ -1,5 +1,5 @@
 +++
-read_time = 20
+read_time = 8
 date = "2018-08-13"
 title = "Spring Boot 2.x 集成JetCache中间件"
 tags = ["Reactive Programming"]
