@@ -19,24 +19,9 @@ weight = 87
 **作用**：甘特图可以清晰地看出这个任务的进度，在什么阶段应该完成到什么程度。管理者可以清晰地了解项目的进度，从而对工作做出新的安排。
 
 **文档中的位置**：项目开发计划管理
-```
-gantt
-dateFormat YYYY-MM-DD
-section 需求调研
-T1: 2018-01-01, 1d
-section 需求分析
-T2: 2018-01-03, 2d
-section 软件设计
-T3: 2018-01-05, 4d
-section 程序编码
-T4: 2018-01-09, 10d
-section 软件测试
-T5: 2018-01-19, 2d
-section 试运行
-T6: 2018-01-21, 2d
-section 正式上线
-T7: 2018-01-23, 2d
-```
+
+![image](http://on-img.com/chart_image/5b89fcc0e4b075b9fe31df6f.png?_=1535880363753)
+
 [甘特图](https://baike.baidu.com/item/%E7%94%98%E7%89%B9%E5%9B%BE)
 
 
