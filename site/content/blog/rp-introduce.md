@@ -1,7 +1,7 @@
 
 
 +++
-read_time = 20
+read_time = 15
 date = "2018-02-05"
 title = "响应式编程介绍"
 tags = ["Reactive Programming"]
@@ -15,6 +15,7 @@ weight = 90
 您将收获：什么是响应式编程
 
 
+
 ## 简介
 
 ## 什么是响应式编程？
@@ -25,7 +26,7 @@ weight = 90
 ## 变化传递
 <font color=#f1ab03>变化传递是对一个或一组功能流程中的任意影响预期结果的变动事件化。</font>下面将通过事件图示例帮你理解。
 
-![image](https://os-qingdao.oss-cn-qingdao.aliyuncs.com/note/image/event-flow.png)
+![image](http://on-img.com/chart_image/5aea6d81e4b0411f64e0bc26.png?_=1535881003785)
 
 从上图中可以看到预期结果是总金额，而影响总金额的是商品单价和商品数量，这是功能流程中变动且影响预期结果的被抽象成一个个事件，从时间轴上看就是一个事件数据流。
 
@@ -34,16 +35,17 @@ weight = 90
 
 下面是发放优惠券的一个数据流示例图：
 
-![image](https://os-qingdao.oss-cn-qingdao.aliyuncs.com/note/image/data-stream.png)
+![image](http://on-img.com/chart_image/5b8bae17e4b06fc64ae064c6.png)
 
 从图可以看出这是一个线性结构，数据的流转一环套一环，通过层层过滤数据来确定目标数据并发放优惠券。重要的是可重试，不管来的数据是什么，只要通过了数据流管道就是我们成功的发放优惠券给到活动用户。
 
 ## 声明式编程范式
 我们对上图中数据流示例进行解构可得到下面的数据流转图：
 
-![image](https://os-qingdao.oss-cn-qingdao.aliyuncs.com/note/image/data-stream2.png)
+![image](http://on-img.com/chart_image/5aeabad3e4b039625b008599.png)
 
 可以看出数据从原始的杂乱到寻得最终目标数据的过程中经历过预先设计好的过滤逻辑，从而得到最终的结果的过程是比较优美的。这种将数据绑定计算逻辑正是声明式编程范式的一大特点。
+
 
 ## 总结
 一个生活示例解释响应式编程，示例如下：
