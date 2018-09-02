@@ -2,7 +2,7 @@
 +++
 read_time = 10
 date = "2018-09-02"
-title = "软件生命周期常用的图"
+title = "软件开发生命周期常用到的图"
 tags = ["Reactive Programming"]
 categories = ["general"]
 draft = false
