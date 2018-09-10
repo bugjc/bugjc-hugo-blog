@@ -35,8 +35,11 @@ isShow = true
 
 ## 实用工具
 
-### <font color=#009688>[lombok](https://github.com/rzwitserloot/lombok)</font>
+### <font color=#009688>[Lombok](https://github.com/rzwitserloot/lombok)</font>
 > Lombok 是一种 Java™ 实用工具，可用来帮助开发人员消除 Java 的冗长，尤其是对于简单的 Java 对象（POJO）。它通过注解实现这一目的。
+
+### <font color=#009688>[Druid](https://github.com/alibaba/druid)</font>
+> Druid是Java语言中最好的数据库连接池。Druid能够提供强大的监控和扩展功能。
 
 ### <font color=#009688>[录屏截屏工具](https://www.screenpresso.com/download/)</font>
 > 录屏截屏工具。
