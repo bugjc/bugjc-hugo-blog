@@ -28,6 +28,7 @@ isShow = true
 ### Java
 - [Spring Cloud](https://projects.spring.io/spring-cloud/spring-cloud.html#_features)
 - [Spring Cloud Netflix](https://cloud.spring.io/spring-cloud-netflix/single/spring-cloud-netflix.html)
+- [Spring Cloud Sleuth](https://cloud.spring.io/spring-cloud-sleuth/2.0.x/single/spring-cloud-sleuth.html)
 - [Spring Boot 参考指南](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
 - [Spring Batch 参考文档中文版](https://kimmking.gitbooks.io/springbatchreference/content/index.html)
 - [Spring Boot Admin](https://codecentric.github.io/spring-boot-admin/2.0.1/#_what_is_spring_boot_admin)
