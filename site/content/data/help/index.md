@@ -42,7 +42,7 @@ isShow = true
 - [Hystrix 文档](https://github.com/Netflix/Hystrix/wiki)
 
 ## 其他
-
 - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
 - [Kubernetes 中文文档](http://docs.kubernetes.org.cn/)
+- [Rancher 1.6][https://rancher.com/docs/rancher/v1.6/en/]
 - [Rancher 2.x](https://rancher.com/docs/rancher/v2.x/en/cluster-provisioning/rke-clusters/node-pools/ec2/)
