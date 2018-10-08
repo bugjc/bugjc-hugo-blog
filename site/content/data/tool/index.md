@@ -32,6 +32,12 @@ isShow = true
 ### <font color=#009688>[JSON工具](http://www.jsons.cn/json2java/)</font>
 > JSON生成在Java实体类
 
+### <font color=#009688>[Java反编译](http://javare.cn)</font>
+> Java反编译
+
+### <font color=#009688>[在线表情符号搜索](https://emojipedia.org/)</font>
+> 在线表情符号搜索
+
 
 ## 实用工具
 

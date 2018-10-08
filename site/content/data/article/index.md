@@ -140,3 +140,17 @@ isShow = true
 ### 前端好文
 - [web前端资源文件的部署和优化](https://juejin.im/post/59a50dc1f265da246e6e108f)
 - [用 Canvas + WASM 画一个迷宫](https://juejin.im/post/597e0982f265da3e2529f560)
+
+### 资源
+- [开箱即用的中台前端/设计解决方案](https://github.com/ant-design/ant-design-pro/blob/master/README.zh-CN.md)
+- [免费软件列表导航页](https://github.com/ripienaar/free-for-dev)
+
+### 常用的工具
+- [在线cron表达式生成](http://cron.qqe2.com/)
+- [json生成在Java实体类](http://www.jsons.cn/json2java/)
+- [docker-jenkins-nginx-letsencrypt | docker+nginx构建免费ssl证书服务](https://github.com/dataminelab/docker-jenkins-nginx-letsencrypt)
+- [ShellCheck-一个shell脚本静态分析工具](https://github.com/koalaman/shellcheck)
+- [分布式负载测试工具](https://docs.locust.io/en/latest/what-is-locust.html)
+
+### 顶尖团队
+- [国内顶尖技术团队的开源地址（持续更新）](https://github.com/niezhiyang/open_source_team?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io#1%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4)
