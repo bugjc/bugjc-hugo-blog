@@ -38,6 +38,8 @@ isShow = true
 ### <font color=#009688>[在线表情符号搜索](https://emojipedia.org/)</font>
 > 在线表情符号搜索
 
+### <font color=#009688>[加密算法工具](http://www.ssleye.com/abort.html)</font>
+> 在线加密算法工具
 
 ## 实用工具
 
@@ -55,7 +57,6 @@ isShow = true
 
 ### <font color=#009688>[在线 GC 日志分析](http://gceasy.io/)</font>
 > 业界首款机器学习指导垃圾收集日志分析工具。GCeasy具有内置智能，可自动检测JVM GC日志中的问题并为其推荐解决方案。
-
 
  
 ## 其他工具
