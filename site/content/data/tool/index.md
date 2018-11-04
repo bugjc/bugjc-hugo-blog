@@ -5,12 +5,18 @@ weight = 8
 draft = false 
 description = "收藏、整理项目开发过程中使用到的软件工具"  
 bref = "收藏、整理项目开发过程中使用到的软件工具。"
-toc = true  
+toc = false  
 isShow = true
 
 +++
 
 > 工具箱
+
+
+🐵  | 🦍
+---|---
+[轻松玩转PDF](#轻松玩转PDF) | [Ping服务器](#Ping服务器) 
+row 2 col 1 | row 2 col 2
 
 ## 全局地图
 
@@ -21,12 +27,6 @@ isShow = true
 
 
 ## 在线工具
-
-#### 轻松玩转PDF
-- <font color=#009688>[Smailpdf](https://smallpdf.com/cn) </font>
-
-#### <font color=#009688>[Ping服务器](http://tool.chinaz.com/sitespeed/) </font>
-> 网站测速工具
 
 ### <font color=#009688>[网站分析工具](https://www.openadmintools.com)</font>
 > 网站分析工具
@@ -82,3 +82,10 @@ https://goreplay.org7/
 
 
 
+
+
+#### 轻松玩转PDF
+- <font color=#009688>[Smailpdf](https://smallpdf.com/cn) </font>
+
+#### <font color=#009688>[Ping服务器](http://tool.chinaz.com/sitespeed/) </font>
+> 网站测速工具
