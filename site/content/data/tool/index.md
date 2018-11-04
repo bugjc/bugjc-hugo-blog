@@ -17,7 +17,7 @@ isShow = true
 <a href="#轻松玩转PDF">轻松玩转PDF</a> | <a href="#JMeter">JMeter</a> | <a href="#Lombok">Lombok</a> | <a href="#录屏截屏工具">录屏截屏工具</a>  
 <a href="#Ping服务器">Ping服务器</a> | <a href="#Postman">Postman</a> | <a href="#Druid">Druid</a> | <a href="#捕获真实流量测试应用">捕获真实流量测试应用</a>  
 <a href="#网站分析工具">网站分析工具</a> | | <a href="#Flyway">Flyway</a> | <a href="#YAPI接口管理工具">YAPI接口管理工具</a>   
-<a href="#程序员的工具箱">程序员的工具箱</a> | | |   
+<a href="#程序员的工具箱">程序员的工具箱</a> | | <a href="#Hutool">Hutool</a> |   
 <a href="#在线协作绘图平台">在线协作绘图平台</a> | | |   
 <a href="#JSON工具">JSON工具</a> | | |   
 <a href="#Java反编译">Java反编译</a> | | |   
@@ -66,6 +66,12 @@ isShow = true
 
 #### <h4 id="Flyway" data-scroll-id="Flyway" tabindex="-1" style="outline: none;">Flyway</h4>
 > [Flyway](https://flywaydb.org)  是独立于数据库的应用、管理并跟踪数据库变更的数据库版本管理工具。
+
+#### <h4 id="Hutool" data-scroll-id="Hutool" tabindex="-1" style="outline: none;">Hutool</h4>
+> [Hutool](https://github.com/looly/hutool)  是一个Java工具包，也只是一个工具包，它帮助我们简化每一行代码，减少每一个方法，让Java语言也可以“甜甜的”。Hutool最初是我项目中“util”包的一个整理，后来慢慢积累并加入更多非业务相关功能，并广泛学习其它开源项目精髓，经过自己整理修改，最终形成丰富的开源工具集。
+
+#### <h4 id="Guava" data-scroll-id="Guava" tabindex="-1" style="outline: none;">Guava</h4>
+> [Guava](https://github.com/google/guava)  是一组核心库，包括新的集合类型（例如multimap和multiset），不可变集合，图形库，函数类型，内存缓存以及用于并发，I / O，散列，基元的API /实用程序，反射，字符串处理等等。
 
 ## 测试工具
 #### <h4 id="JMeter" data-scroll-id="JMeter" tabindex="-1" style="outline: none;">JMeter</h4>
