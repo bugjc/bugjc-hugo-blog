@@ -9,15 +9,23 @@ toc = true
 isShow = true
 
 +++
+
+> 工具箱
+
+## 全局地图
+
+🐵 | 🦍|  🐶|  🦊|   🐈|    🐯|    🦄|    🐮|      🐷|       🐏 |       
+---|---|---|---|---|---|---|---|---|---
+[轻松玩转PDF](#轻松玩转PDF) | [Ping服务器](#Ping服务器) |[JVM](#jvm) | [分布式](#分布式相关) |[框架](#常用框架第三方组件)|[架构设计](#架构设计)| [数据库](#db-相关) |[算法](#数据结构与算法)|[Netty](#netty-相关)| [附加技能](#附加技能)
+
+
+
 ## 在线工具
 
-### <font color=#009688>[Smailpdf](https://smallpdf.com/cn) </font>
-> 轻松玩转PDF
+#### 轻松玩转PDF
+- <font color=#009688>[Smailpdf](https://smallpdf.com/cn) </font>
 
-### <font color=#009688>[Ping服务器](http://tool.chinaz.com/sitespeed/) </font>
-> 网站测速工具
-
-### <font color=#009688>[Ping服务器](http://tool.chinaz.com/sitespeed/) </font>
+#### <font color=#009688>[Ping服务器](http://tool.chinaz.com/sitespeed/) </font>
 > 网站测速工具
 
 ### <font color=#009688>[网站分析工具](https://www.openadmintools.com)</font>
@@ -41,13 +49,9 @@ isShow = true
 ### <font color=#009688>[加密算法工具](http://www.ssleye.com/abort.html)</font>
 > 在线加密算法工具
 
+## 编程工具
+
 ## 实用工具
-
-### <font color=#009688>[Lombok](https://github.com/rzwitserloot/lombok)</font>
-> Lombok 是一种 Java™ 实用工具，可用来帮助开发人员消除 Java 的冗长，尤其是对于简单的 Java 对象（POJO）。它通过注解实现这一目的。
-
-### <font color=#009688>[Druid](https://github.com/alibaba/druid)</font>
-> Druid是Java语言中最好的数据库连接池。Druid能够提供强大的监控和扩展功能。
 
 ### <font color=#009688>[录屏截屏工具](https://www.screenpresso.com/download/)</font>
 > 录屏截屏工具。
@@ -58,8 +62,11 @@ isShow = true
 ### <font color=#009688>[在线 GC 日志分析](http://gceasy.io/)</font>
 > 业界首款机器学习指导垃圾收集日志分析工具。GCeasy具有内置智能，可自动检测JVM GC日志中的问题并为其推荐解决方案。
 
+### <font color=#009688>[捕获真实流量测试应用](https://github.com/buger/goreplay)</font>
+> GoReplay是一款开源工具，用于捕获实时HTTP流量并将其重播到测试环境中，以便持续用真实数据测试您的系统。它可用于增加代码部署，配置更改和基础结构更改的可信度。 
+https://goreplay.org7/
  
-## 其他工具
+## 管理工具
 
 ### <font color=#009688>[YAPI接口管理工具](https://yapi.ymfe.org/documents/index.html) </font>
 > YAPI旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API
@@ -72,11 +79,6 @@ isShow = true
 
 ### <font color=#009688>[Postman](#)</font>
 > Postman是一个HTTP接口测试工具，在google 浏览器下运行。
-
-### <font color=#009688>[捕获真实流量测试应用](https://github.com/buger/goreplay)</font>
-> GoReplay是一款开源工具，用于捕获实时HTTP流量并将其重播到测试环境中，以便持续用真实数据测试您的系统。它可用于增加代码部署，配置更改和基础结构更改的可信度。 
-https://goreplay.org
-
 
 
 
