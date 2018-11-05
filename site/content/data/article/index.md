@@ -5,10 +5,30 @@ weight = 1
 draft = false 
 description = "收藏、整理对我有启发的文章"  
 bref = "收藏、整理对我有启发的文章。"
-toc = true  
+toc = false  
 isShow = true
 
 +++
+
+
+> 文章笔记
+
+技能图谱 | 高质量内容站 
+---|---
+<a href="#微服务架构技能图谱">微服务架构技能图谱</a> |  
+<a href="#架构师技能图谱">架构师技能图谱</a> |  
+
+## 技能图谱
+
+##### <a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MicroService-by-StuQ.png"><h4 id="微服务架构技能图谱">微服务架构技能图谱</h4></a>
+
+##### <a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Architect-by-StuQ.png"><h4 id="架构师技能图谱">架构师技能图谱</h4></a>
+
+- [容器技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Container-by-StuQ.png)  
+- [大数据工程师技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-BigData-by-StuQ.png)  
+- [机器学习技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MachineLearning-by-StuQ.png)  
+- [Java 征途：行者的地图](https://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=402720329&idx=1&sn=f1cd65eb6f6baef044bdf5def8102a28#rd)
+
 
 
 ### 技能图谱
