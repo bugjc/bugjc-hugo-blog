@@ -6,7 +6,7 @@ draft = false
 description = "收藏、整理项目开发过程中使用到的软件工具"  
 bref = "收藏、整理项目开发过程中使用到的软件工具。"
 toc = false  
-isShow = true
+isShow = trues
 
 +++
 
@@ -18,7 +18,7 @@ isShow = true
 <a href="#Ping服务器">Ping服务器</a> | <a href="#Postman">Postman</a> | <a href="#Druid">Druid</a> | <a href="#捕获真实流量测试应用">捕获真实流量测试应用</a>  
 <a href="#网站分析工具">网站分析工具</a> | | <a href="#Flyway">Flyway</a> | <a href="#YAPI接口管理工具">YAPI接口管理工具</a>   
 <a href="#程序员的工具箱">程序员的工具箱</a> | | <a href="#Hutool">Hutool</a> |   
-<a href="#在线协作绘图平台">在线协作绘图平台</a> | | |   
+<a href="#在线协作绘图平台">在线协作绘图平台</a> | | <a href="#Guava">Guava</a> |   
 <a href="#JSON工具">JSON工具</a> | | |   
 <a href="#Java反编译">Java反编译</a> | | |   
 <a href="#在线表情符号搜索">在线表情符号搜索</a> | | |   
