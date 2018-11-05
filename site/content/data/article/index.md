@@ -22,9 +22,10 @@ isShow = true
 
 ## 技能图谱
 
-##### <a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MicroService-by-StuQ.png"><h4 id="微服务架构技能图谱">微服务架构技能图谱</h4></a>
+<font size=2 color=gray><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MicroService-by-StuQ.png"><h4 id="微服务架构技能图谱">微服务架构技能图谱</h4></a></font> 
 
-##### <a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Architect-by-StuQ.png"><h4 id="架构师技能图谱">架构师技能图谱</h4></a>
+<font size=2 color=gray><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Architect-by-StuQ.png"><h4 id="架构师技能图谱">架构师技能图谱</h4></a></font> 
+
 
 - [容器技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Container-by-StuQ.png)  
 - [大数据工程师技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-BigData-by-StuQ.png)  
