@@ -6,7 +6,7 @@ draft = false
 description = "收藏、整理项目开发过程中使用到的软件工具"  
 bref = "收藏、整理项目开发过程中使用到的软件工具。"
 toc = false  
-isShow = trues
+isShow = true
 
 +++
 
