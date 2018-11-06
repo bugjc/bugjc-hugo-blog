@@ -25,12 +25,12 @@ isShow = true
 
 ## 技能图谱
 
-- <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MicroService-by-StuQ.png"><p id="微服务架构技能图谱">微服务架构技能图谱</p></a></font>   
-- <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Architect-by-StuQ.png"><p id="架构师技能图谱">架构师技能图谱</p></a></font>   
-- <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Container-by-StuQ.png"><p id="容器技能图谱">容器技能图谱</p></a></font>   
-- <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-BigData-by-StuQ.png"><p id="大数据工程师技能图谱">大数据工程师技能图谱</p></a></font>   
-- <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MachineLearning-by-StuQ.png"><p id="机器学习技能图谱">机器学习技能图谱</p></a></font>   
-- <font size=3 color=#3794de><a href="https://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=402720329&idx=1&sn=f1cd65eb6f6baef044bdf5def8102a28#rd"><p id="Java 征途：行者的地图">Java 征途：行者的地图</p></a></font>   
+> <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MicroService-by-StuQ.png"><p id="微服务架构技能图谱">微服务架构技能图谱</p></a></font>   
+  <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Architect-by-StuQ.png"><p id="架构师技能图谱">架构师技能图谱</p></a></font>   
+  <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Container-by-StuQ.png"><p id="容器技能图谱">容器技能图谱</p></a></font>   
+  <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-BigData-by-StuQ.png"><p id="大数据工程师技能图谱">大数据工程师技能图谱</p></a></font>   
+  <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MachineLearning-by-StuQ.png"><p id="机器学习技能图谱">机器学习技能图谱</p></a></font>   
+  <font size=3 color=#3794de><a href="https://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=402720329&idx=1&sn=f1cd65eb6f6baef044bdf5def8102a28#rd"><p id="Java 征途：行者的地图">Java 征途：行者的地图</p></a></font>   
 
 ## 高质量内容站
 <font size=3 color=#3794de><a href="http://www.runoob.com/"><h4 id="菜鸟教程">菜鸟教程</h4></a></font>  
