@@ -25,27 +25,27 @@ isShow = true
 
 ## 技能图谱
 
-> <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MicroService-by-StuQ.png"><p id="微服务架构技能图谱">微服务架构技能图谱</p></a></font>   
-  <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Architect-by-StuQ.png"><p id="架构师技能图谱">架构师技能图谱</p></a></font>   
-  <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Container-by-StuQ.png"><p id="容器技能图谱">容器技能图谱</p></a></font>   
-  <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-BigData-by-StuQ.png"><p id="大数据工程师技能图谱">大数据工程师技能图谱</p></a></font>   
-  <font size=3 color=#3794de><a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MachineLearning-by-StuQ.png"><p id="机器学习技能图谱">机器学习技能图谱</p></a></font>   
-  <font size=3 color=#3794de><a href="https://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=402720329&idx=1&sn=f1cd65eb6f6baef044bdf5def8102a28#rd"><p id="Java 征途：行者的地图">Java 征途：行者的地图</p></a></font>   
+<a id="微服务架构技能图谱" href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MicroService-by-StuQ.png">微服务架构技能图谱</a>   
+<a id="架构师技能图谱" href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Architect-by-StuQ.png">架构师技能图谱</a>     
+<a id="容器技能图谱" href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Container-by-StuQ.png">容器技能图谱</a>  
+<a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-BigData-by-StuQ.png" id="大数据工程师技能图谱">大数据工程师技能图谱</a>    
+<a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MachineLearning-by-StuQ.png" id="机器学习技能图谱">机器学习技能图谱</a>    
+<a href="https://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=402720329&idx=1&sn=f1cd65eb6f6baef044bdf5def8102a28#rd" id="Java 征途：行者的地图">Java 征途：行者的地图</a>    
 
 ## 高质量内容站
-<font size=3 color=#3794de><a href="http://www.runoob.com/"><h4 id="菜鸟教程">菜鸟教程</h4></a></font>  
-<font size=3 color=#3794de><a href="http://www.jiuzhang.com"><h4 id="九章算法">九章算法</h4></a></font>  
-<font size=3 color=#3794de><a href="https://juejin.im/timeline"><h4 id="掘金">掘金</h4></a></font>  
-<font size=3 color=#3794de><a href="https://toutiao.io/"><h4 id="开发者头条">开发者头条</h4></a></font>   
-<font size=3 color=#3794de><a href="https://segmentfault.com/"><h4 id="SegmentFault">SegmentFault</h4></a></font>  
-<font size=3 color=#3794de><a href="http://www.infoq.com/cn/"><h4 id="InfoQ">InfoQ</h4></a></font>  
+<a href="http://www.runoob.com/" id="菜鸟教程">菜鸟教程</a>   
+<a href="http://www.jiuzhang.com" id="九章算法">九章算法</a>   
+<a href="https://juejin.im/timeline" id="掘金">掘金</a>   
+<a href="https://toutiao.io/" id="开发者头条">开发者头条</a>    
+<a href="https://segmentfault.com/" id="SegmentFault">SegmentFault</a>    
+<a href="http://www.infoq.com/cn/" id="InfoQ">InfoQ</a>    
 
 ## 架构设计
-<font size=3 color=#3794de><a href="https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md"><h4 id="系统设计入门">系统设计入门</h4></a></font>  
-<font size=3 color=#3794de><a href="https://tech.youzan.com/queuing_delay/"><h4 id="有赞延迟队列设计">有赞延迟队列设计</h4></a></font>  
-<font size=3 color=#3794de><a href="https://mp.weixin.qq.com/s/yr4CIgoloLt3zfjQbHEOpA?utm_source=tuicool&utm_medium=referral"><h4 id="故障驱动的微服务架构设计">故障驱动的微服务架构设计</h4></a></font>  
-<font size=3 color=#3794de><a href="https://www.liaoxuefeng.com/article/00146129217054923f7784c57134669986a8875c10e135e000"><h4 id="设计一个可扩展的用户登录系统">设计一个可扩展的用户登录系统</h4></a></font>  
-<font size=3 color=#3794de><a href="http://note.youdao.com/noteshare?id=32e6651e4a8d90143fdf1aedd572615b&sub=DA403EEE572E48A98A4517CEB59CFB4B"><h4 id="如何做高可用的架构设计（整理篇）">如何做高可用的架构设计（整理篇）</h4></a></font>  
+<a href="https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md" id="系统设计入门">系统设计入门</a>  
+<a href="https://tech.youzan.com/queuing_delay/" id="有赞延迟队列设计">有赞延迟队列设计</a>  
+<a href="https://mp.weixin.qq.com/s/yr4CIgoloLt3zfjQbHEOpA?utm_source=tuicool&utm_medium=referral" id="故障驱动的微服务架构设计">故障驱动的微服务架构设计</a>  
+<a href="https://www.liaoxuefeng.com/article/00146129217054923f7784c57134669986a8875c10e135e000" id="设计一个可扩展的用户登录系统">设计一个可扩展的用户登录系统</a>  
+<a href="http://note.youdao.com/noteshare?id=32e6651e4a8d90143fdf1aedd572615b&sub=DA403EEE572E48A98A4517CEB59CFB4B" id="如何做高可用的架构设计（整理篇）">如何做高可用的架构设计（整理篇）</a>  
 
 
 ### 高质量内容站
