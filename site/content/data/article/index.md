@@ -17,13 +17,12 @@ isShow = true
 技能图谱 | 高质量内容站 | 架构设计
 ---|---|---
 <a href="#微服务架构技能图谱">微服务架构技能图谱</a> | <a href="#菜鸟教程">菜鸟教程</a> | <a href="#系统设计入门">系统设计入门</a>  
-<a href="#架构师技能图谱">架构师技能图谱</a> | <a href="#九章算法">九章算法</a> | <a href="#有赞延迟队列设计">有赞延迟队列设计</a>  
+<a href="#架构师技能图谱">架构师技能图谱</a> |  | <a href="#有赞延迟队列设计">有赞延迟队列设计</a>  
 <a href="#容器技能图谱">容器技能图谱</a> | <a href="#掘金">掘金</a> | <a href="#故障驱动的微服务架构设计">故障驱动的微服务架构设计</a>  
 <a href="#大数据工程师技能图谱">大数据工程师技能图谱</a> | <a href="#开发者头条">开发者头条</a> | <a href="#设计一个可扩展的用户登录系统">设计一个可扩展的用户登录系统</a>  
 <a href="#机器学习技能图谱">机器学习技能图谱</a> | <a href="#SegmentFault">SegmentFault</a> | <a href="#如何做高可用的架构设计（整理篇）">如何做高可用的架构设计（整理篇）</a>  
-<a href="#Java 征途：行者的地图">Java 征途：行者的地图</a> | <a href="#InfoQ">InfoQ</a> |  
 
-## 技能图谱
+### 技能图谱
 
 <a id="微服务架构技能图谱" href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MicroService-by-StuQ.png">微服务架构技能图谱</a>   
 <a id="架构师技能图谱" href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Architect-by-StuQ.png">架构师技能图谱</a>     
@@ -32,31 +31,23 @@ isShow = true
 <a href="https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MachineLearning-by-StuQ.png" id="机器学习技能图谱">机器学习技能图谱</a>    
 <a href="https://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=402720329&idx=1&sn=f1cd65eb6f6baef044bdf5def8102a28#rd" id="Java 征途：行者的地图">Java 征途：行者的地图</a>    
 
-## 高质量内容站
-<a href="http://www.runoob.com/" id="菜鸟教程">菜鸟教程</a>   
-<a href="http://www.jiuzhang.com" id="九章算法">九章算法</a>   
+### 高质量内容站
+<a href="http://www.runoob.com/" id="菜鸟教程">菜鸟教程</a>     
 <a href="https://juejin.im/timeline" id="掘金">掘金</a>   
 <a href="https://toutiao.io/" id="开发者头条">开发者头条</a>    
 <a href="https://segmentfault.com/" id="SegmentFault">SegmentFault</a>    
 <a href="http://www.infoq.com/cn/" id="InfoQ">InfoQ</a>    
+[芋道源码](http://www.iocoder.cn/)  
+[并发编程网](http://ifeve.com/)  
+[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)  
 
-## 架构设计
+
+### 架构设计
 <a href="https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md" id="系统设计入门">系统设计入门</a>  
 <a href="https://tech.youzan.com/queuing_delay/" id="有赞延迟队列设计">有赞延迟队列设计</a>  
 <a href="https://mp.weixin.qq.com/s/yr4CIgoloLt3zfjQbHEOpA?utm_source=tuicool&utm_medium=referral" id="故障驱动的微服务架构设计">故障驱动的微服务架构设计</a>  
 <a href="https://www.liaoxuefeng.com/article/00146129217054923f7784c57134669986a8875c10e135e000" id="设计一个可扩展的用户登录系统">设计一个可扩展的用户登录系统</a>  
 <a href="http://note.youdao.com/noteshare?id=32e6651e4a8d90143fdf1aedd572615b&sub=DA403EEE572E48A98A4517CEB59CFB4B" id="如何做高可用的架构设计（整理篇）">如何做高可用的架构设计（整理篇）</a>  
-
-
-### 高质量内容站
-
-
-- [芋道源码](http://www.iocoder.cn/)
-- [并发编程网](http://ifeve.com/)
-- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
-- [雷锋网-关注智能与未来](https://www.leiphone.com/)
-
-
 
 ### 实用技能
 - [Nginx 通过 Lua + Redis 实现动态封禁 IP](http://www.jianshu.com/p/20b6883e62ea)
@@ -163,8 +154,6 @@ isShow = true
 - [免费软件列表导航页](https://github.com/ripienaar/free-for-dev)
 
 ### 常用的工具
-- [在线cron表达式生成](http://cron.qqe2.com/)
-- [json生成在Java实体类](http://www.jsons.cn/json2java/)
 - [docker-jenkins-nginx-letsencrypt | docker+nginx构建免费ssl证书服务](https://github.com/dataminelab/docker-jenkins-nginx-letsencrypt)
 - [ShellCheck-一个shell脚本静态分析工具](https://github.com/koalaman/shellcheck)
 - [分布式负载测试工具](https://docs.locust.io/en/latest/what-is-locust.html)
