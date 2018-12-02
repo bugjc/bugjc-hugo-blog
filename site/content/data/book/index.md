@@ -81,7 +81,7 @@ isShow = true
 
 * [数据挖掘算法](https://github.com/linyiqun/DataMiningAlgorithm)
 * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
-
+* [使用Apache Flink进行流处理](https://www.safaribooksonline.com/library/view/stream-processing-with/9781491974285/ch01.html)
 ------
 
 ### Java
