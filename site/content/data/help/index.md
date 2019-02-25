@@ -44,6 +44,7 @@ isShow = true
 - [MyBatis 3](http://www.mybatis.org/mybatis-3/zh/index.html)
 - [Redis 文档](http://www.redis.cn/commands.html)
 - [Hystrix 文档](https://github.com/Netflix/Hystrix/wiki)
+- [Fastjson最佳实践](https://kimmking.github.io/2017/06/06/json-best-practice/)
 
 ## 其他
 - [Nginx 中文官方文档](https://wizardforcel.gitbooks.io/nginx-doc/content/)
