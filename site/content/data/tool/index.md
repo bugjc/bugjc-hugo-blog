@@ -12,18 +12,18 @@ isShow = true
 
 > 工具箱
 
-🐵在线工具 | 🦍测试工具 | 🦊 Java工具 | 🐮实用工具
----|---|---|---
-<a href="#轻松玩转PDF">轻松玩转PDF</a> | <a href="#JMeter">JMeter</a> | <a href="#Lombok">Lombok</a> | <a href="#录屏截屏工具">录屏截屏工具</a>  
-<a href="#Ping服务器">Ping服务器</a> | <a href="#Postman">Postman</a> | <a href="#Druid">Druid</a> | <a href="#捕获真实流量测试应用">捕获真实流量测试应用</a>  
-<a href="#网站分析工具">网站分析工具</a> | | <a href="#Flyway">Flyway</a> | <a href="#YAPI接口管理工具">YAPI接口管理工具</a>   
-<a href="#程序员的工具箱">程序员的工具箱</a> | | <a href="#Hutool">Hutool</a> |   
-<a href="#在线协作绘图平台">在线协作绘图平台</a> | | <a href="#Guava">Guava</a> |   
-<a href="#JSON工具">JSON工具</a> | | |   
-<a href="#Java反编译">Java反编译</a> | | |   
-<a href="#在线表情符号搜索">在线表情符号搜索</a> | | |   
-<a href="#在线加密算法工具">在线加密算法工具</a> | | |  
-<a href="#在线 GC 日志分析">在线 GC 日志分析</a> | | |  
+在线工具 | 测试工具 | Java工具 | 实用工具 | IDE插件
+---|---|---|---|---
+<a href="#轻松玩转PDF">轻松玩转PDF</a> | <a href="#JMeter">JMeter</a> | <a href="#Lombok">Lombok</a> | <a href="#录屏截屏工具">录屏截屏工具</a> | <a href="Cloud Toolkit">Cloud Toolkit</a>                        
+<a href="#Ping服务器">Ping服务器</a> | <a href="#Postman">Postman</a> | <a href="#Druid">Druid</a> | <a href="#捕获真实流量测试应用">捕获真实流量测试应用</a> | <a href="Codota">Codota</a>                                                                                 
+<a href="#网站分析工具">网站分析工具</a> | | <a href="#Flyway">Flyway</a> | <a href="#YAPI接口管理工具">YAPI接口管理工具</a>   | <a href="Alibaba Java Coding Guidelines">Alibaba Java Coding Guidelines</a>                                                              
+<a href="#程序员的工具箱">程序员的工具箱</a> | | <a href="#Hutool">Hutool</a> |                      
+<a href="#在线协作绘图平台">在线协作绘图平台</a> | | <a href="#Guava">Guava</a> |            
+<a href="#JSON工具">JSON工具</a> | | |                                                  
+<a href="#Java反编译">Java反编译</a> | | |                                                
+<a href="#在线表情符号搜索">在线表情符号搜索</a> | | |                                         
+<a href="#在线加密算法工具">在线加密算法工具</a> | | |                                        
+<a href="#在线 GC 日志分析">在线 GC 日志分析</a> | | |                                         
 
 ## 在线工具
 
@@ -93,7 +93,13 @@ https://goreplay.org7/
 #### <h4 id="YAPI接口管理工具" data-scroll-id="YAPI接口管理工具" tabindex="-1" style="outline: none;">YAPI接口管理工具</h4>
 > [YAPI](https://yapi.ymfe.org/documents/index.html) 旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API。
 
-## IntelliJ IDEA 插件
+## IDE 插件
+#### <h4 id="Cloud Toolkit具" data-scroll-id="Cloud Toolkit" tabindex="-1" style="outline: none;">Cloud Toolkit</h4>
+> [Cloud Toolkit](https://cn.aliyun.com/product/cloudtoolkit) 帮助开发者更高效地开发、测试、诊断并部署应用.
+
+
 #### <h4 id="Codota" data-scroll-id="Codota" tabindex="-1" style="outline: none;">Codota</h4>
 > [Codota](https://www.codota.com/) 根据从数百万优秀程序中学习的模型为您编写代码片段。轻松采用标准代码习语，专注于问题的细节，而不是常见的组件布线。
 
+#### <h4 id="Alibaba Java Coding Guidelines" data-scroll-id="Codota" tabindex="-1" style="outline: none;">Codota</h4>
+> [Alibaba Java Coding Guidelines](https://github.com/alibaba/p3c/wiki/Eclipse%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3) 该插件由阿里巴巴P3C项目组研发。P3C是世界知名的反潜机，专门对付水下潜水艇，寓意是扫描出所有潜在的代码隐患。这个项目组是阿里巴巴开发爱好者自发组织形成的虚拟项目组，把《阿里巴巴Java开发规约》强制条目转化成自动化插件，并实现部分的自动编程。
