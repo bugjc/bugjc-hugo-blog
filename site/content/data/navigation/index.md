@@ -1,6 +1,6 @@
 +++
 
-title = "资料搜索"
+title = "知识地图"
 weight = 5
 draft = false
 description = "收集资料搜索、导航网站"
@@ -10,17 +10,20 @@ isShow = true
 
 +++
 
-### <font color=#3998e2>[极客搜索](https://s.geekbang.org/)</font>
-> 程序员的资料搜索站。
+> 看地图，不迷路。
+- Java 知识地图
+- - [Java 基础知识](https://www.processon.com/view/5c9c2269e4b06bf202473b40?fromnew=1#map)
+- - [Java 程序优化知识](https://www.processon.com/view/5cb3e3ade4b09ccab3588402?fromnew=1#map)
+- - [Java 并发编程知识](https://www.processon.com/view/5cd36b96e4b08b66b9cb2378?fromnew=1#map)
 
-### <font color=#3998e2>[图灵社区](http://www.ituring.com.cn/)</font>
-> 程序员的图书搜索站。
+- [分布式知识体系](https://mp.weixin.qq.com/s/CMd4GCoZoTsY_FNB1y9DJw)
 
-### <font color=#3998e2>[异步社区](http://www.epubit.com.cn/)</font>
-> 程序员的图书搜索站。
+- [微服务架构技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-MicroService-by-StuQ.png)
 
-### <font color=#3998e2>[GitChat](http://gitbook.cn/)</font>
-> GitChat 是一款基于微信平台的知识分享产品，通过这款产品我们希望改变 IT 知识的学习方式。
+- [架构师技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Architect-by-StuQ.png)
 
-### <font color=#3998e2>[程序员资料索引库](https://thonatos.gitbooks.io/be-a-professional-programmer/?q=)</font>
-> 成为一名专业程序员的道路上，需要坚持练习、学习与积累，技术方面既要有一定的广度，更要有自己的深度。ss
+- [容器技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-Container-by-StuQ.png)
+
+- [大数据工程师技能图谱](https://raw.githubusercontent.com/TeamStuQ/skill-map/master/data/designbyStuQ/png-BigData-by-StuQ.png)
+
+- [TODO Linux 知识地图]()
