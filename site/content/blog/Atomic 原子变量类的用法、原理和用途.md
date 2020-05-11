@@ -1,7 +1,7 @@
 +++
 read_time = 15
 date = "2017-09-06"
-title = "Atomic原子变量类的用法、原理和用途"
+title = "Atomic 原子变量类的用法、原理和用途"
 tags = ["Java","Atomic"]
 categories = ["general"]
 draft = false
@@ -9,16 +9,19 @@ description = "非阻塞的线程安全编程"
 weight = 1000
 +++
 
+阅读人群：软件工程师   
+您将收获：Atomic 原子变量类的用法、原理和用途。
+
 ## 前言
-> 在当今科技高速发展的时代，计算机的高速发展早已超越“摩尔定律”；在这个计算机相对廉价的时代，作为开发者操作的机器早已不是单核处理器了，早已进入多核时代，业务早已进入并行执行；开发高并发的程序所要掌握的技能也不再是使用没有效率的锁，所幸jdk1.5提供在多线程情况下无锁的进行原子操作，也就是这篇文章将要写的内容。
+> 在当今科技高速发展的时代，计算机的高速发展早已超越“摩尔定律”；在这个计算机相对廉价的时代，作为开发者操作的机器早已不是单核处理器了，早已进入多核时代，业务早已进入并行执行；开发高并发的程序所要掌握的技能也不再是使用没有效率的锁，所幸 jdk1.5 提供在多线程情况下无锁的进行原子操作，也就是这篇文章将要写的内容。
 > 
 
-## 什么是“原子变量类”？
+## 一、什么是“原子变量类”？
 
 自JDK1.5开始提供了java.util.concurrent.atomic包，方便程序员在多线程环境下，无锁的进行原子操作。原子变量的底层使用了处理器提供的原子指令，但是不同的CPU架构可能提供的原子指令不一样，也有可能需要某种形式的内部锁,所以该方法不能绝对保证线程不被阻塞。- **总的来说就是提供非阻塞的线程安全编程**
 
 
-## 原子变量类的简单用法  
+## 二、原子变量类的简单用法  
 
 在介绍用法前先了解jdk软件包 java.util.concurrent.atomic 中为我们提供了哪些原子类和方法：  
 
@@ -57,7 +60,7 @@ weight = 1000
 
 示例一：原子更新基本类型类--生成序列号
 
-```Java
+```java
 public class Example1 {
 
     private final AtomicLong sequenceNumber = new AtomicLong(0);
@@ -100,7 +103,6 @@ public class Example1 {
 ```
 执行结果：
 
-
     1
     2
     3
@@ -117,7 +119,7 @@ public class Example1 {
 示例二：原子方式更新数组
 
 
-```Java
+```
 public class Example2 {
 
     static AtomicIntegerArray arr = new AtomicIntegerArray(10);
@@ -161,7 +163,7 @@ public class Example2 {
 
 示例三：原子方式更新引用
 
-```Java
+```
 public class Node {
     private int val;
     private volatile Node left, right;
@@ -219,7 +221,7 @@ public class Node {
 - compareAndSet 和所有其他的读取和更新操作（如 getAndIncrement）都有读取和写入 volatile 变量的内存效果。
 
 
-## 原子操作的实现原理
+## 三、原子操作的实现原理
 
 
 关键源码：
@@ -247,11 +249,11 @@ public final native boolean compareAndSwapLong(Object var1, long var2, long var4
 
 
 
-## 原子对象的用途
+## 四、原子对象的用途
 
 原子变量类主要用作各种构造块，用于实现非阻塞数据结构和相关的基础结构类。compareAndSet方法不是锁的常规替换方法。仅当对象的重要更新限定于单个变量时才应用它。
 
 例：多线程高并发计数器 
 
-## 总结 （摘自网上）
+## 五、总结 （摘自网上）
 原子变量类相对于基于锁的版本有几个性能优势。首先，它用硬件的原生形态代替 JVM 的锁定代码路径，从而在更细的粒度层次上（独立的内存位置）进行同步，失败的线程也可以立即重试，而不会被挂起后重新调度。更细的粒度降低了争用的机会，不用重新调度就能重试的能力也降低了争用的成本。即使有少量失败的 CAS 操作，这种方法仍然会比由于锁争用造成的重新调度快得多。

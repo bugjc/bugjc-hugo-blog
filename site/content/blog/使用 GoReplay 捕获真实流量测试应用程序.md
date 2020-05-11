@@ -2,24 +2,25 @@
 +++
 read_time = 5
 date = "2018-02-05"
-title = "使用GoReplay捕获真实流量测试应用程序"
+title = "使用 GoReplay 捕获真实流量测试应用程序"
 tags = ["goreplay"]
 categories = ["general"]
 draft = false
-description = "GoReplay是一款开源工具，用于捕获实时HTTP流量并将其重播到测试环境中，以便持续用真实数据测试您的系统。它可用于增加代码部署，配置更改和基础结构更改的可信度。"
+description = "GoReplay 是一款开源工具，用于捕获实时 HTTP 流量并将其重播到测试环境中，以便持续用真实数据测试您的系统。它可用于增加代码部署，配置更改和基础结构更改的可信度。"
 weight = 90
 +++
 
 阅读人群：软件工程师   
-您将收获：使用GoReplay进行应用测试
+您将收获：使用 GoReplay 进行应用测试。
 
-## 什么是GoReplay
+
+## 一、什么是 GoReplay
 
 > GoReplay是一款开源工具，用于捕获实时HTTP流量并将其重播到测试环境中，以便持续用真实数据测试您的系统。它可用于增加代码部署，配置更改和基础结构更改的可信度。
 
-## GoReplay使用
+## 二、GoReplay 使用
 
-#### 安装GoReplay
+#### 安装 GoReplay
 
 从[下载最新的Gor二进制文件](https://github.com/buger/gor/releases)（我们为Windows，Linux x64和Mac OS提供预编译的二进制文件），或者您可以自己[编译编译](https://github.com/buger/goreplay/wiki/Compilation)。
 
@@ -91,9 +92,14 @@ sudo ./goreplay --input-raw :8000 --output-file=requests.gor
 ./goreplay --input-tcp :28020 --output-http "http://staging.com|10"
 ```
 
+## 三、总结
+本文介绍了 GoReplay 这款工具的作用以及如何使用，主要目的是记录使用方式便于之后使用查阅。
 
-## 参考资料
 
+## 四、参考资料
 - [GoReplay](https://github.com/buger/goreplay/wiki)
+
+
+
 
 
