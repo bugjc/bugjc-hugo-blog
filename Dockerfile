@@ -6,12 +6,12 @@ RUN apt-get -qq update \
 	&& rm -rf /var/lib/apt/lists/*
 
 # Download and install hugo
-ENV HUGO_VERSION 0.41
+ENV HUGO_VERSION 0.70.0
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_Linux-64bit.deb
 
 #ADD https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINARY} /tmp/hugo.deb
 RUN curl -sL -o /tmp/hugo.deb \
-    https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINARY} && \
+    https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINARY} && \
     dpkg -i /tmp/hugo.deb && \
     rm /tmp/hugo.deb && \
     mkdir /usr/share/blog
