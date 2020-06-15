@@ -3,7 +3,7 @@
 read_time = 15
 date = "2017-08-16"
 title = "ThreadLocal 的用法、原理和用途"
-tags = ["Java","Atomic"]
+tags = ["Java","ThreadLocal"]
 categories = ["general"]
 draft = false
 description = "ThreadLocal 是一个线程局部变量，我们都知道全局变量和局部变量的区别，拿Java举例就是定义在类中的是全局的变量，各个方法中都能访问得到，而局部变量定义在方法中，只能在方法内访问。那线程局部变量（ThreadLocal）就是每个线程都会有一个局部变量，独立于变量的初始化副本，而各个副本是通过线程唯一标识相关联的。"

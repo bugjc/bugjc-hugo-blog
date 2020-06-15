@@ -2,7 +2,7 @@
 read_time = 5
 date = "2018-01-05"
 title = "基于 Mock 的前后端分离开发流程详解——TDD"
-tags = ["mock"]
+tags = ["Mock","TDD"]
 categories = ["general"]
 draft = false
 description = "提升团队开发效率的工作方式。"

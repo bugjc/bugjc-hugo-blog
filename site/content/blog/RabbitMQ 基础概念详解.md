@@ -3,7 +3,7 @@
 read_time = 5
 date = "2018-01-05"
 title = "RabbitMQ 基础概念详解"
-tags = ["rabbitmq"]
+tags = ["RabbitMQ","消息中间件"]
 categories = ["general"]
 draft = false
 description = "了解rabbitmq概念有助于学习理解rabbitmq中的重要组成部分以及设计模型。"

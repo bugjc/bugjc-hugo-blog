@@ -3,7 +3,7 @@
 read_time = 5
 date = "2018-02-05"
 title = "使用 GoReplay 捕获真实流量测试应用程序"
-tags = ["goreplay"]
+tags = ["GoReplay","测试工具"]
 categories = ["general"]
 draft = false
 description = "GoReplay 是一款开源工具，用于捕获实时 HTTP 流量并将其重播到测试环境中，以便持续用真实数据测试您的系统。它可用于增加代码部署，配置更改和基础结构更改的可信度。"

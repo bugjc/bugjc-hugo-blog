@@ -2,7 +2,7 @@
 read_time = 8
 date = "2018-08-13"
 title = "Spring Boot 2.x 集成 JetCache 组件"
-tags = ["Reactive Programming"]
+tags = ["JetCache","Spring Boot","缓存组件"]
 categories = ["general"]
 draft = false
 description = "JetCache 是一个基于 Java 的缓存系统封装，提供统一的 API 和注解来简化缓存的使用。"

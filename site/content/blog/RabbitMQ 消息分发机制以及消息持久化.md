@@ -3,7 +3,7 @@
 read_time = 10
 date = "2018-01-06"
 title = "RabbitMQ 消息分发机制以及消息持久化"
-tags = ["rabbitmq"]
+tags = ["RabbitMQ","消息中间件","分发机制","存储机制"]
 categories = ["general"]
 draft = false
 description = "本文旨在深入理解rabbitmq消息的分发机制和消息一致性所产生的各种问题及解决方法。"
