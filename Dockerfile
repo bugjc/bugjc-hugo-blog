@@ -21,8 +21,8 @@ COPY site/ /usr/share/blog
 WORKDIR /usr/share/blog
 
 # Expose default hugo port
-EXPOSE 80
+EXPOSE 9000
 
 # By default, serve site
-ENV HUGO_BASE_URL http://www.bugjc.com
+ENV HUGO_BASE_URL https://www.bugjc.com
 CMD hugo server -b ${HUGO_BASE_URL} --bind=0.0.0.0 -p 9000
