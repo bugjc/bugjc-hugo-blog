@@ -1,4 +1,6 @@
-FROM debian:jessie
+FROM daocloud.io/library/debian
+
+
 
 # Install pygments (for syntax highlighting)
 RUN apt-get -qq update \
