@@ -25,4 +25,4 @@ EXPOSE 80
 
 # By default, serve site
 ENV HUGO_BASE_URL http://www.bugjc.com
-CMD hugo server -b ${HUGO_BASE_URL} --bind=0.0.0.0 -p 80
+CMD hugo server -b ${HUGO_BASE_URL} --bind=0.0.0.0 -p 9000
