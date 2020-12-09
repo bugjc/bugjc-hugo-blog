@@ -1,0 +1,16 @@
+.article-container {
+  margin: 10px;
+}
+
+.article-title {
+  color: #1eabf2;
+  font-size: 20px;
+}
+
+.article-about {
+  font-size: 16px;
+}
+
+hr {
+  margin: 5px;
+}

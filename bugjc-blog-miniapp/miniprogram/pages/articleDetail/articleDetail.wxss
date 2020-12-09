@@ -1,0 +1,5 @@
+#hero-blog {
+  max-width: 100%;
+  text-align: left;
+  margin: auto;
+}

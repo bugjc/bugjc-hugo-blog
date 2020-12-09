@@ -1,0 +1,10 @@
+<!--loading-->
+<view class="loading" wx:if="{{isLoading}}">
+  <image class="loading__icon" src="/images/loading.svg"></image>
+</view>
+
+<view style="width:100%;height:100%;" bind:touchstart="touchStart" bind:touchend="touchEnd"
+  bind:touchcancel="touchCancel">
+  <!--使用towxml-->
+  <towxml nodes="{{article}}"/>
+</view>

@@ -1,0 +1,11 @@
+<!--文章列表-->
+<block wx:for="{{article}}" wx:key="item">
+  <view class="page__bd page__bd_spacing article-container">
+    <view class="weui-flex">
+      <view class="weui-flex__item">
+        <view data-detail_url="{{item._detail_url}}" class="article-title" bindtap="onGetDetail">{{item._title}}</view>
+        <view class="article-about">{{item._about}}</view>
+      </view>
+    </view>
+  </view>
+</block>
