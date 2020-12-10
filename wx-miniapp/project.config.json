@@ -37,7 +37,7 @@
     "minifyWXSS": true
   },
   "appid": "wx5ba1ac86638f201a",
-  "projectname": "bugjc-blog-miniapp",
+  "projectname": "wx-miniapp",
   "libVersion": "2.8.1",
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},

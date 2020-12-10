@@ -16,7 +16,7 @@ RUN curl -sL -o /tmp/hugo.deb \
     rm /tmp/hugo.deb && \
     mkdir /usr/share/blog
 
-COPY site/ /usr/share/blog
+COPY web-app /usr/share/blog
 
 WORKDIR /usr/share/blog
 
