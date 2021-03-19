@@ -8,3 +8,6 @@
 out
 gen
 web-app/public/
+wx-miniapp/miniprogram/miniprogram_npm/
+wx-miniapp/miniprogram/node_modules/
+
